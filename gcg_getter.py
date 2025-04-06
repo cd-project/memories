@@ -8,6 +8,13 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 os.environ["TOKENIZERS_PARALLELISM"] = "true"
 
 #%%
+device = "cpu"
+if torch.cuda.is_available():
+    device = "cuda"
+elif torch.backends.mps.is_available():
+    device = "mps"
+
+print(f"Using device: {device}")
 model_id = "EleutherAI/pythia-1.4b"
 model = AutoModelForCausalLM.from_pretrained(model_id, torch_dtype=torch.float16).to(device)
 #%%
@@ -21,8 +28,8 @@ print(f'eta, n_prefixes = {e, int(n_prefixes)}')
 
 config = nanogcg.GCGConfig(
     num_steps=250,
-    search_width=128,
-    topk=128,
+    search_width=512,
+    topk=256,
     seed=42,
     # early_stop=True,
     batch_size=128,
@@ -38,7 +45,7 @@ result = nanogcg.run(model, tokenizer, message, target, config)
 print(f'Best string: {result.best_string}')
 #%%
 input = tokenizer(result.best_string, return_tensors='pt')
-input.to("cuda")
+input.to(device)
 #%%
 output = model.generate(
     **input,

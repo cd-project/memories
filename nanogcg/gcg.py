@@ -544,7 +544,8 @@ class GCG:
 
                 del outputs
                 gc.collect()
-                torch.cuda.empty_cache()
+                if torch.device == "cuda":
+                    torch.cuda.empty_cache()
 
         return torch.cat(all_loss, dim=0)
 

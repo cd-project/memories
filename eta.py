@@ -53,4 +53,4 @@ def calc_eta(
        eta += coeff * similarity
 
 
-    return n_token, eta, eta*n_token
+    return n_token, tokenized, eta, int(eta*n_token)
