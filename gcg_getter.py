@@ -20,19 +20,18 @@ model = AutoModelForCausalLM.from_pretrained(model_id, torch_dtype=torch.float16
 #%%
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 #%%
-message = " "
-target = "In this world nothing can be said to be certain, except death and taxes."
+message = ""
+target = "There are no shortcuts to any place worth going."
 
-N, e, n_prefixes = eta.calc_eta(target, model, tokenizer)
-print(f'eta, n_prefixes = {e, int(n_prefixes)}')
+N, tokenized, e, n_prefixes_required = eta.calc_eta(target, model, tokenizer)
+print(f'eta, n_prefixes = {e, int(n_prefixes_required)}')
 
 config = nanogcg.GCGConfig(
     num_steps=250,
-    search_width=512,
+    search_width=256,
     topk=256,
-    seed=42,
+    seed=763806631,
     # early_stop=True,
-    batch_size=128,
     verbosity="WARNING",
 
 )
