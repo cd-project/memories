@@ -34,7 +34,7 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
     probe_sampling_config = None
-    if args.probe_sampling and args.model != "EleutherAI/pythia-12b":
+    if args.probe_sampling:
         print('using probe sampling config')
         draft_model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2",
                                                            torch_dtype=getattr(torch, args.dtype)).to(args.device)
@@ -56,7 +56,7 @@ def main():
         messages = [{"role": "user", "content": 'Give me the famous quote'}]
         print('messages is: {}'.format(messages))
     else:
-        messages = None
+        messages = " "
     if e == 0.0:
         print(f'eta is zero, no expectation.')
         data = [[target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
@@ -75,11 +75,11 @@ def main():
             return
         cnt+=1
         config = GCGConfig(
-            num_steps=1000,
+            num_steps=250,
             search_width=512,
             topk=512,
             seed=seed,
-            verbosity="INFO",
+            verbosity="WARNING",
             # early_stop=True,
             probe_sampling_config=probe_sampling_config
         )
@@ -126,69 +126,4 @@ def main():
 
 if __name__ == "__main__":
     main()  # Calls the main function when the script runs
-
-def checker(model: transformers.PreTrainedModel,
-            tokenizer: transformers.PreTrainedTokenizer,
-            target: str,
-            acr_result: str,
-            device: str,
-            out_file: str,):
-    n_token, tokenized, e, n_prefixes_required, lcs = eta.calc_eta(target, model, tokenizer)
-
-
-    match = 0
-    match_list = []
-    cnt = 0
-    print(f'check e: {e}')
-    if e == 0.0:
-        data = [[target, acr_result, True, e, n_prefixes_required, match, cnt, match_list]]
-        print(
-            f'target: {target}, acr: {acr_result}, result: {True}, e = {e}, n_prefixes_required = {n_prefixes_required}, match = {match}, running count = {cnt}, match_list = {match_list}')
-        with open(out_file, "a", newline="") as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerows(data)
-        return
-    for seed in seeds:
-        cnt += 1
-        config = GCGConfig(
-            num_steps=250,
-            search_width=256,
-            topk=256,
-            seed=seed,
-            verbosity="WARNING",
-        )
-        result = nanogcg.run(model, tokenizer, "", target, config)
-
-        input_str = tokenizer(result.best_string, return_tensors='pt').to(device)
-        output_tokens = model.generate(**input_str, max_new_tokens=n_token)
-
-        generated_tokens = output_tokens[:, len(output_tokens) - n_token - 1:].tolist()[0]
-
-        t = tokenized['input_ids'][0].tolist()
-        if generated_tokens == t:
-            match += 1
-            match_list.append([seed, result.best_string])
-        if n_prefixes_required == 0:
-            if match > n_prefixes_required:
-                data = [[target, acr_result, True, e, n_prefixes_required, match, cnt, match_list]]
-                print(
-                    f'target: {target}, acr: {acr_result}, result: {True}, e = {e}, n_prefixes_required = {n_prefixes_required}, match = {match}, running count = {cnt}, match_list = {match_list}')
-                with open(out_file, "a", newline="") as csvfile:
-                    writer = csv.writer(csvfile)
-                    writer.writerows(data)
-                return
-        else:
-            if match >= n_prefixes_required:
-                data = [[target, acr_result, True, e, n_prefixes_required, match, cnt, match_list]]
-                with open(out_file, "a", newline="") as csvfile:
-                    writer = csv.writer(csvfile)
-                    writer.writerows(data)
-                return
-
-    data = [[target, acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
-    with open(out_file, "a", newline="") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerows(data)
-        return
-
 

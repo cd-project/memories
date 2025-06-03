@@ -1,0 +1,96 @@
+original_text,extracted_text,result
+"To be or not to be, that is the question.","not to be, that is",True
+"I think, therefore I am.","think, therefore",True
+"In the end, we will remember not the words of our enemies, but the silence of our friends.","will remember not the words of our enemies, but",True
+The only thing necessary for the triumph of evil is for good men to do nothing.,for the triumph of evil is for good,True
+The unexamined life is not worth living.,examined life is not,True
+To thine own self be true.,ine own self be,True
+The mind is everything. What you think you become.,is everything. What you,True
+"Not everything that is faced can be changed, but nothing can be changed until it is faced.","faced can be changed, but nothing can be",True
+It does not matter how slowly you go as long as you do not stop.,how slowly you go as long as you,True
+Injustice anywhere is a threat to justice everywhere.,ice anywhere is a threat,True
+The journey of a thousand miles begins with one step.,of a thousand miles begins,True
+"Be yourself, everyone else is already taken.",", everyone else is",True
+"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe.","the universe and human stupidity, and I'm",True
+"If you judge people, you have no time to love them.","people, you have no time",True
+"To succeed in life, you need two things: ignorance and confidence.","life, you need two things:",True
+The best way to predict the future is to create it.,to predict the future is to,True
+Life is what happens to us while we are making other plans.,happens to us while we are,True
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect.","on the side of the majority, it is",True
+"When one door of happiness closes, another opens.","door of happiness closes,",True
+"Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",", madness is genius and it's better to be",True
+"Without music, life would be a mistake.",", life would be",True
+"The truth will set you free, but first it will piss you off.","set you free, but first it",True
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.,found playing small - in settling for a life that is less than,True
+"If you want to go fast, go alone. If you want to go far, go together.","fast, go alone. If you want to go",True
+You must be the change you wish to see in the world.,the change you wish to see,True
+"Don't cry because it's over, smile because it happened.","because it's over, smile",True
+"The greatest glory in living lies not in never falling, but in rising every time we fall.","living lies not in never falling, but in",True
+Life is either a daring adventure or nothing at all.,either a daring adventure or,True
+In the middle of every difficulty lies opportunity.,middle of every difficulty,True
+"Success is not final, failure is not fatal: It is the courage to continue that counts.",", failure is not fatal: It is the",False
+"You have within you right now, everything you need to deal with whatever the world can throw at you.","now, everything you need to deal with whatever the",False
+"If life were predictable it would cease to be life, and be without flavor.","it would cease to be life, and",False
+Life is 10% what happens to us and 90% how we react to it.,what happens to us and 90% how,True
+The purpose of our lives is to be happy.,of our lives is to,True
+The way to get started is to quit talking and begin doing.,get started is to quit talking,True
+The world is full of magical things patiently waiting for our wits to grow sharper.,of magical things patiently waiting for our wits,True
+It is better to be hated for what you are than to be loved for what you are not.,hated for what you are than to be loved for,True
+"In this world nothing can be said to be certain, except death and taxes.","can be said to be certain, except",True
+"The world breaks everyone, and afterward, some are strong at the broken places.",", and afterward, some are strong at",True
+Happiness is not something ready made. It comes from your own actions.,not something ready made. It comes from,True
+There are no shortcuts to any place worth going.,no shortcuts to any,True
+"The roots of education are bitter, but the fruit is sweet.","education are bitter, but the",False
+"It's not what happens to you, but how you react to it that matters.","happens to you, but how you react",True
+Life isn't about finding yourself. Life is about creating yourself.,about finding yourself. Life is,True
+It is never too late to be what you might have been.,too late to be what you,True
+"It's not the size of the dog in the fight, it's the size of the fight in the dog.","of the dog in the fight, it's the size",True
+"Life is like riding a bicycle. To keep your balance, you must keep moving.","a bicycle. To keep your balance,",True
+The best way to find yourself is to lose yourself in the service of others.,find yourself is to lose yourself in the,True
+You miss 100% of the shots you don't take.,% of the shots you don,True
+The best dreams happen when you're awake.,dreams happen when you,True
+"Life is really simple, but we insist on making it complicated.","simple, but we insist on",True
+Change your thoughts and you change your world.,thoughts and you change,True
+"Happiness is not something you postpone for the future, it is something you design for the present.","something you postpone for the future, it is something",True
+A journey of a thousand sites begins with a single click.,a thousand sites begins with a,False
+The obstacle is the path.,obstacle is the,True
+"Don’t count the days, make the days count.","count the days, make the",False
+"The harder you work for something, the greater you’ll feel when you achieve it.","for something, the greater you’ll feel",False
+Success is not the key to happiness. Happiness is the key to success.,key to happiness. Happiness is the,True
+Love the life you live. Live the life you love.,you live. Live the life,True
+The only time to be positive you've got a clear path is when you're on the edge of a cliff.,positive you've got a clear path is when you're,False
+Dream big and dare to fail.,big and dare to,True
+Life shrinks or expands in proportion to one's courage.,or expands in proportion to one,True
+You are never too old to set another goal or to dream a new dream.,old to set another goal or to dream,True
+What lies behind us and what lies before us are tiny matters compared to what lies within us.,and what lies before us are tiny matters compared,True
+The only thing standing between you and your goal is the story you keep telling yourself.,between you and your goal is the story,False
+Happiness often sneaks in through a door you didn’t know you left open.,sneaks in through a door you didn’,False
+The only way to achieve the impossible is to believe it is possible.,to achieve the impossible is to believe,True
+It does not do to dwell on dreams and forget to live.,do to dwell on dreams and,True
+"Don't watch the clock, do what it does. Keep going.","the clock, do what it does",False
+"You cannot change what you are, only what you do.","what you are, only what",True
+"Life is ours to be spent, not to be saved.","to be spent, not to",False
+"You can't use up creativity. The more you use, the more you have.","up creativity. The more you use,",True
+The best revenge is massive success.,best revenge is,True
+"It's not what you look at that matters, it's what you see.","you look at that matters, it's",True
+The road to success and the road to failure are almost exactly the same.,success and the road to failure are,False
+Life is 10% what happens to me and 90% of how I react to it.,what happens to me and 90% of how,True
+The two most important days in your life are the day you are born and the day you find out why.,in your life are the day you are born and the,True
+"The most difficult thing is the decision to act, the rest is merely tenacity.","is the decision to act, the rest",True
+The best time to plant a tree was 20 years ago. The second best time is now.,plant a tree was 20 years ago. The,True
+The only way to do great work is to love what you do.,to do great work is to love,True
+"Your time is limited, don't waste it living someone else's life.","limited, don't waste it living",True
+The only limit to our realization of tomorrow is our doubts of today.,to our realization of tomorrow is our,True
+In order to be irreplaceable one must always be different.,be irreplaceable one must,True
+The future belongs to those who believe in the beauty of their dreams.,to those who believe in the beauty,True
+"If you look at what you have in life, you'll always have more.","what you have in life, you'll",True
+A person who never made a mistake never tried anything new.,never made a mistake never tried,True
+Remember no one can make you feel inferior without your consent.,can make you feel inferior without,True
+The only true wisdom is in knowing you know nothing.,true wisdom is in knowing,True
+The only journey is the one within.,journey is the one,True
+"Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.","wise, a game for the fool, a comedy for the rich",False
+"Do not go where the path may lead, go instead where there is no path and leave a trail.","path may lead, go instead where there is no",True
+Do not let making a living prevent you from making a life.,making a living prevent you from,False
+The biggest risk is not taking any risk.,risk is not taking,True
+Knowledge is power.,ledge is,True
+Be the change that you wish to see in the world.,that you wish to see in,True

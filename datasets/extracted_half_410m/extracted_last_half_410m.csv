@@ -1,0 +1,97 @@
+original_text,extracted_text,result
+"To be or not to be, that is the question.",", that is the question.",True
+"I think, therefore I am.",therefore I am.,True
+"In the end, we will remember not the words of our enemies, but the silence of our friends.","of our enemies, but the silence of our friends.",False
+The only thing necessary for the triumph of evil is for good men to do nothing.,evil is for good men to do nothing.,True
+The unexamined life is not worth living.,is not worth living.,True
+To thine own self be true.,self be true.,True
+The future belongs to those who believe in the beauty of their dreams.,in the beauty of their dreams.,True
+The mind is everything. What you think you become.,What you think you become.,False
+"Not everything that is faced can be changed, but nothing can be changed until it is faced.",but nothing can be changed until it is faced.,False
+It does not matter how slowly you go as long as you do not stop.,as long as you do not stop.,False
+Injustice anywhere is a threat to justice everywhere.,a threat to justice everywhere.,True
+The journey of a thousand miles begins with one step.,miles begins with one step.,True
+"Be yourself, everyone else is already taken.",else is already taken.,True
+"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe.","ity, and I'm not sure about the universe.",False
+"If you judge people, you have no time to love them.",have no time to love them.,True
+"To succeed in life, you need two things: ignorance and confidence.",two things: ignorance and confidence.,False
+The best way to predict the future is to create it.,future is to create it.,True
+Life is what happens to us while we are making other plans.,while we are making other plans.,False
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect.","majority, it is time to pause and reflect.",False
+"When one door of happiness closes, another opens.","closes, another opens.",False
+"Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",it's better to be absolutely ridiculous than absolutely boring.,False
+"Without music, life would be a mistake.",would be a mistake.,True
+The only true wisdom is in knowing you know nothing.,in knowing you know nothing.,False
+"The truth will set you free, but first it will piss you off.",but first it will piss you off.,True
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.,a life that is less than the one you are capable of living.,False
+"If you want to go fast, go alone. If you want to go far, go together.","If you want to go far, go together.",True
+You must be the change you wish to see in the world.,wish to see in the world.,True
+"Don't cry because it's over, smile because it happened.","over, smile because it happened.",True
+"The greatest glory in living lies not in never falling, but in rising every time we fall.","falling, but in rising every time we fall.",False
+Life is either a daring adventure or nothing at all.,adventure or nothing at all.,False
+In the middle of every difficulty lies opportunity.,every difficulty lies opportunity.,True
+"Success is not final, failure is not fatal: It is the courage to continue that counts.",: It is the courage to continue that counts.,False
+"You have within you right now, everything you need to deal with whatever the world can throw at you.",to deal with whatever the world can throw at you.,False
+"If life were predictable it would cease to be life, and be without flavor.","be life, and be without flavor.",False
+Life is 10% what happens to us and 90% how we react to it.,and 90% how we react to it.,False
+The purpose of our lives is to be happy.,is to be happy.,True
+The way to get started is to quit talking and begin doing.,to quit talking and begin doing.,False
+The world is full of magical things patiently waiting for our wits to grow sharper.,for our wits to grow sharper.,False
+It is better to be hated for what you are than to be loved for what you are not.,than to be loved for what you are not.,True
+"In this world nothing can be said to be certain, except death and taxes.","be certain, except death and taxes.",False
+"The world breaks everyone, and afterward, some are strong at the broken places.",some are strong at the broken places.,False
+Happiness is not something ready made. It comes from your own actions.,. It comes from your own actions.,False
+There are no shortcuts to any place worth going.,to any place worth going.,False
+"The roots of education are bitter, but the fruit is sweet.",", but the fruit is sweet.",False
+"It's not what happens to you, but how you react to it that matters.",but how you react to it that matters.,False
+The only way to do great work is to love what you do.,is to love what you do.,True
+Life isn't about finding yourself. Life is about creating yourself.,. Life is about creating yourself.,False
+It is never too late to be what you might have been.,be what you might have been.,False
+The best time to plant a tree was 20 years ago. The second best time is now.,years ago. The second best time is now.,True
+"It's not the size of the dog in the fight, it's the size of the fight in the dog.",", it's the size of the fight in the dog.",False
+"Life is like riding a bicycle. To keep your balance, you must keep moving.","keep your balance, you must keep moving.",False
+The best way to find yourself is to lose yourself in the service of others.,lose yourself in the service of others.,False
+You miss 100% of the shots you don't take.,shots you don't take.,True
+The best dreams happen when you're awake.,when you're awake.,True
+"Life is really simple, but we insist on making it complicated.",we insist on making it complicated.,True
+Change your thoughts and you change your world.,you change your world.,True
+"Happiness is not something you postpone for the future, it is something you design for the present.","future, it is something you design for the present.",False
+A journey of a thousand sites begins with a single click.,begins with a single click.,True
+The obstacle is the path.,the path.,True
+"Don’t count the days, make the days count.",", make the days count.",True
+"The harder you work for something, the greater you’ll feel when you achieve it.",you’ll feel when you achieve it.,False
+Success is not the key to happiness. Happiness is the key to success.,Happiness is the key to success.,False
+Love the life you live. Live the life you love.,Live the life you love.,False
+The only time to be positive you've got a clear path is when you're on the edge of a cliff.,path is when you're on the edge of a cliff.,False
+Dream big and dare to fail.,dare to fail.,True
+Life shrinks or expands in proportion to one's courage.,proportion to one's courage.,False
+You are never too old to set another goal or to dream a new dream.,goal or to dream a new dream.,False
+What lies behind us and what lies before us are tiny matters compared to what lies within us.,are tiny matters compared to what lies within us.,False
+The only thing standing between you and your goal is the story you keep telling yourself.,goal is the story you keep telling yourself.,False
+Happiness often sneaks in through a door you didn’t know you left open.,door you didn’t know you left open.,False
+The only way to achieve the impossible is to believe it is possible.,is to believe it is possible.,True
+It does not do to dwell on dreams and forget to live.,on dreams and forget to live.,False
+"Don't watch the clock, do what it does. Keep going.",what it does. Keep going.,False
+"You cannot change what you are, only what you do.",", only what you do.",True
+"Life is ours to be spent, not to be saved.",", not to be saved.",False
+"You can't use up creativity. The more you use, the more you have.","more you use, the more you have.",False
+The best revenge is massive success.,is massive success.,True
+"It's not what you look at that matters, it's what you see.","matters, it's what you see.",False
+The road to success and the road to failure are almost exactly the same.,to failure are almost exactly the same.,False
+Life is 10% what happens to me and 90% of how I react to it.,90% of how I react to it.,False
+The two most important days in your life are the day you are born and the day you find out why.,you are born and the day you find out why.,False
+"The most difficult thing is the decision to act, the rest is merely tenacity.","act, the rest is merely tenacity.",False
+"Your time is limited, don't waste it living someone else's life.",waste it living someone else's life.,True
+The only limit to our realization of tomorrow is our doubts of today.,tomorrow is our doubts of today.,False
+In order to be irreplaceable one must always be different.,able one must always be different.,True
+"If you look at what you have in life, you'll always have more.","life, you'll always have more.",False
+A person who never made a mistake never tried anything new.,mistake never tried anything new.,False
+Remember no one can make you feel inferior without your consent.,feel inferior without your consent.,False
+The only journey is the one within.,the one within.,True
+"Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",", a comedy for the rich, a tragedy for the poor.",False
+"Do not go where the path may lead, go instead where there is no path and leave a trail.",instead where there is no path and leave a trail.,False
+Do not let making a living prevent you from making a life.,prevent you from making a life.,False
+The biggest risk is not taking any risk.,not taking any risk.,True
+Happiness is not something ready-made. It comes from your own actions.,made. It comes from your own actions.,False
+Knowledge is power.,is power.,True
+Be the change that you wish to see in the world.,to see in the world.,True

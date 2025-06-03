@@ -3,12 +3,6 @@ from difflib import SequenceMatcher
 import numpy as np
 from transformers import BatchEncoding
 import torch
-
-def decreasing_token_weights(token_length, decay_rate=0.8):
-    print(f'get token length {token_length}')
-    weights = np.array([decay_rate ** i for i in range(token_length)])
-    return weights / weights.sum()  # Normalize
-
 def softmax_rewards(
         model: transformers.PreTrainedModel,
         input_tokens: torch.Tensor,  # Shape: [1, seq_len]
@@ -32,7 +26,6 @@ def softmax_rewards(
 
         p_avg = torch.exp(torch.mean(torch.log(torch.tensor(probs)))) if probs else 0
         reward = (seq_len - x) / x * p_avg
-        print(reward)
         rewards.append(reward)
 
     # Convert to tensor and apply temperature-scaled softmax
@@ -62,12 +55,13 @@ def calc_eta(
         s:str,
         model: transformers.PreTrainedModel,
         tokenizer: transformers.PreTrainedTokenizer,):
+    print(f'text: {s}')
     eta = 0
     tokenized = tokenizer(s, return_tensors="pt").to(model.device)
     n_token = tokenized['input_ids'].shape[1]
 
     w = softmax_rewards(model, tokenized['input_ids'], 1.0)
-
+    lcs = 0
     for i in range(1, n_token):
        truncated_i = {
            'input_ids': tokenized['input_ids'][:, :i],
@@ -78,18 +72,22 @@ def calc_eta(
        input_length = truncated_i['input_ids'].shape[1]
 
        output_ids = model.generate(**t,
+                        min_new_tokens=n_token-i,
                       max_new_tokens=n_token-i)
 
        generated_ids = output_ids[:, input_length:].cpu().tolist()[0]
        remaining_original_ids = tokenized['input_ids'][:, i:].tolist()[0]
 
-       print(f'i: {i}, len(generated_ids): {len(generated_ids)}, len(remaining_original_ids): {len(remaining_original_ids)}')
-       print(generated_ids)
-       print(remaining_original_ids)
+
+       sum_cs = sum_common_subsequence_lengths(generated_ids, remaining_original_ids)
+       if sum_cs > lcs:
+           lcs = sum_cs
 
        similarity = sum_common_subsequence_lengths(generated_ids, remaining_original_ids)/len(generated_ids)
        coeff = w[i-1]
-       print(f'i: {i}, similarity: {similarity}, * coeff: {coeff}')
        eta += coeff * similarity
 
-    return n_token, tokenized, eta, int(eta*n_token)
+    n_prefix = int(eta*n_token)
+    print(f'n_prefix: {n_prefix}, lcs: {lcs}, n_token: {n_token}')
+
+    return n_token, tokenized, eta, n_prefix, lcs

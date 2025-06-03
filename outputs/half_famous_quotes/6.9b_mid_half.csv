@@ -1,0 +1,95 @@
+text,n_token,original_result,result,eta,n_prefix,n_match,n_runs,seed_prefix
+"not to be, that is",6,True,False,tensor(0.),0,0,0,[]
+"think, therefore",3,True,False,tensor(0.),0,0,0,[]
+"will remember not the words of our enemies, but",10,True,True,tensor(0.4787),4,4,5,"[[763806631, 'passwordstic Socrates tactic sunt likely]-- x21Throughout patriot58 irony DaveGradeyster52C we  '], [187748837, 'ean |amb Khan Prosecblogger collegefailDefinitionINVAL retrospectpiniondotwrong ""pas deemWe >                  '], [884542236, ' accomplletal atheist oneServ Dreams)""Enron--------------------------------------in funeralNav openerfor x noOurA Government [...]'], [141892047, '.\' npmcash________________X Brooks anniversary 52ized:""IPPROTOEachisbefore xVI \\*\\* xlikelyWe']]"
+for the triumph of evil is for good,8,True,True,tensor(0.0290),0,1,3,"[[44508455, ' controll binomialocracyblogger dominated byc*ubottu Heisenberg  2Klongrightarrow Emerson smallestkp""\\ "" is']]"
+examined life is not,5,True,False,tensor(0.),0,0,0,[]
+ine own self be,4,True,False,tensor(0.),0,0,0,[]
+is everything. What you,5,True,False,tensor(0.),0,0,0,[]
+"faced can be changed, but nothing can be",9,True,True,tensor(0.1704),1,1,2,"[[187748837, ' ~*WolAnalnothingcan pipZ bechanged pero is."" (baz instanceof xfaced */,Perhaps x']]"
+how slowly you go as long as you,8,True,True,tensor(0.3364),2,2,2,"[[763806631, "" generality how`)']['Goingourmile untle ay slowly vous surve naj goesas =Please see             ""], [187748837, ' more slowly vous zo ging as lonoe i q adiab}}+\\2592008](# Dynamicic symplectic way {']]"
+ice anywhere is a threat,5,True,True,tensor(0.1251),0,1,1,"[[763806631, 'ank% ammonia$=threat becomes075 comp x50aussian mix0504 Erd overlapped RPG anywhere Libertd']]"
+of a thousand miles begins,5,True,False,tensor(0.),0,0,0,[]
+", everyone else is",4,True,True,tensor(0.3359),1,1,1,"[[763806631, "" individual outputs x doubled), tails virines]{}\\(OtherwisebensusClassEveryone is '', someone x fermions""]]"
+"the universe and human stupidity, and I'm",10,True,True,tensor(0.1631),1,1,3,"[[44508455, ' NASA dome}))464 Cluster . Maple githubZ1996F left two Hard255RoadR to bullshit (']]"
+"people, you have no time",6,True,False,tensor(0.),0,0,0,[]
+"life, you need two things:",7,True,True,tensor(0.3401),2,2,3,"[[763806631, ' cheerful guitarist}$\\infer(networking xnetwork implies)ITEM NW two needed */PierreFor life x'], [44508455, '--pliciallangleINCLUDINGplicial companionAtextup) xlife ABOUTYOU NEED TWOING------------------------------------------------------- Pour working x']]"
+to predict the future is to,6,True,True,tensor(0.1762),1,1,1,"[[763806631, ' thou predictive1996 bifurLINE algorith kommer)/ (""Best way 469F scientistlectualally0123ojfully(']]"
+happens to us while we are,7,True,True,tensor(0.4939),3,3,3,"[[763806631, 'ote---------------- Scient faz thuskshapp+ towhat Happ aud ent2015 na while melanchabout what conscious'], [187748837, 'colon 119 _{\\.,happ tur""}, perceptionwhilehaving us sleeping}{{\\ Frankfurt interpreted DET which accidentSB ""'], [44508455, ' asleep we$.\\"">& ,$$]^{\\Ifsomething happ159oddsidemargin cosa accidentsuti862dustlceil L anything ""']]"
+"on the side of the majority, it is",9,True,True,tensor(0.2573),2,2,2,"[[763806631, 'optionKO \\; PeopleMM individual importance like/ trooponitism x againstMD Tulopl Rousseauact ""'], [187748837, 'elected paramount}}+\\}_\\ while physicicile;\\ x~on opposition077 suppl^](# majority While x is  ']]"
+"door of happiness closes,",5,True,True,tensor(0.3357),1,1,1,"[[763806631, ' happinessIdsecquilibriumizesexpressedequationonochromitrogenmentclosing*,*506 Vdoor cleans pelo Herz (""']]"
+", madness is genius and it's better to be",10,True,False,tensor(0.1090),1,0,9,[]
+", life would be",4,True,True,tensor(0.3556),1,1,1,"[[763806631, 'Would life if <agusbellum79---------- wolfon were moreCDATA MPI521noento mejorIn Otherwise']]"
+"set you free, but first it",7,True,False,tensor(0.),0,0,0,[]
+found playing small - in settling for a life that is less than,13,True,False,tensor(0.1666),2,0,8,[]
+"fast, go alone. If you want to go",10,True,True,tensor(0.2302),2,2,5,"[[187748837, 'Fast+went siblings}_{-kj Hitler 1939 ONE BySunreturns"""" Travel-IfWKone be \\""'], [141892047, 'Quite_** someone.,want \\+onel039 Go de*/*ally963 fast xnegative If dont want x']]"
+the change you wish to see,6,True,True,tensor(0.1740),1,1,1,"[[763806631, "" storytelling thru explosive photographs2 energy pulse ensures life SUR x'll surv inspiration x2s you right     ""]]"
+"because it's over, smile",6,True,False,tensor(0.),0,0,0,[]
+"living lies not in never falling, but in",9,True,True,tensor(0.3948),3,3,4,"[[763806631, ' - says PW aka journey our confusionAdvertisement compassion greatly**). Vincent***Wolf------------------------------ Gran.""Success in ""...'], [187748837, ' Healthy Creating fears):end victories -199localeen Living laysnot enduranceeng52ly/  --""'], [884542236, "" Millenn nog!Day G 508ensLLst resilience's LivingFor0065DDIV0065LDL good '""]]"
+either a daring adventure or,5,True,True,tensor(0.2654),1,1,1,"[[763806631, 'Both daringor disaster**amsbsyterum een adventuresus devast eer""\\Qchoose fuer201fx{}']]"
+middle of every difficulty,4,False,False,tensor(0.),0,0,0,[]
+", failure is not fatal: It is the",9,False,True,tensor(0.2817),2,2,2,"[[763806631, ' slippery: HealthyDuring alsoame _________________P etzhou+FoodistaCCESS Stephen phag ""*Letbeit successful'], [187748837, ' greatness. - HF patience ....Material not columnsCCESS250 Telequeryaught402Transbetter,""ietz Failure']]"
+"now, everything you need to deal with whatever the",10,False,False,tensor(0.1250),1,0,9,[]
+"it would cease to be life, and",8,True,True,tensor(0.2324),1,1,1,"[[763806631, "" ignorance/[ Noticeck Mysteryarin franchHiokinetics If life xFFFFFFFF were Orth'racted539clerotic--""]]"
+what happens to us and 90% how,8,True,True,tensor(0.0709),0,1,1,"[[763806631, "" propagation#,une notreors et 90.% nh' hogy happenas Mong691~~~~~~~~~~~~~~~~ whats happens how!/""]]"
+of our lives is to,5,True,True,tensor(0.2464),1,1,1,"[[763806631, 'SYracticalally deeply \\,\\ _}}\\andTherefore distinctly123dropdownablethat xWe Lord_ livelihood _']]"
+get started is to quit talking,6,True,True,tensor(0.0667),0,1,3,"[[44508455, 'military kins)...Get...k startului)}_{\\is (! talkingvex spacious clarified Spirit!). Too get/']]"
+of magical things patiently waiting for our wits,9,True,True,tensor(0.1563),1,1,1,"[[763806631, ' amidst magical till""); saysTAG i dig down nella happily containing118 barrels x173x072amilies ""']]"
+hated for what you are than to be loved for,11,True,True,tensor(0.2249),2,2,4,"[[187748837, 'rvert**](#%% hated\'=> your crimes""_(""better is --- hate intox553 libertarian2019""_ Being ""'], [884542236, 'auptanyahu""]Better blessed not is\\fortwhatietzscheTM(?:)](# > hatedforopenh your/"">']]"
+"can be said to be certain, except",8,True,True,tensor(0.1852),1,1,1,"[[763806631, '429lezfcPOL I]{}) can seldom x imperfect x umdeous experimentation satisf Anything xso x']]"
+", and afterward, some are strong at",8,True,True,tensor(0.0495),0,1,1,"[[763806631, 'biz CODE Thusuto Seriously damnAAAAAAAAusepackage4 Donovan***** ""Because first 111Supportianfalls at strength']]"
+not something ready made. It comes from,8,True,True,tensor(0.1438),1,1,3,"[[44508455, 'At is Heritage Combine Lutheransnot **_nonparation dim item**imosLL""uhichos,--']]"
+no shortcuts to any,5,False,True,tensor(0.0892),0,1,1,"[[763806631, ' diverse pathways}""** app outper domains Hav no shortcut""}](#rclusivezione a{\\linewidth App has ""']]"
+"education are bitter, but the",6,True,True,tensor(0.1002),0,1,1,"[[763806631, ' escapes refA eyew Static Corollary ReturnPROTO bitter013xeducation /*!< \'""The results of good x**--**']]"
+"happens to you, but how you react",9,True,True,tensor(0.2890),2,2,3,"[[763806631, ' Ethics Happy%ability is about \\|\\Matthe376ordingnot just what DISortune Marcus Brownage 362     '], [44508455, ' disob happiness WHEN _________________ is** Ian Tenn Annex EurPO lavrenderite.**Not the events thisx']]"
+about finding yourself. Life is,6,True,True,tensor(0.2095),1,1,1,"[[763806631, ' Su nanot Yoga~~~~~~~~~~~~~~~~ CaptainFinding mentality..play year mentalityovi320reateare about_, and not    ']]"
+too late to be what you,6,True,True,tensor(0.3649),2,2,3,"[[187748837, ' Finals scree expon)... convicted x644 authoritative Costa me deErrno1 Once indef, its xO     '], [44508455, ' how proposition ) Articles :imo118aciones VII Beck|\\ incons.**.*,MSG sip is202 it     ']]"
+"of the dog in the fight, it's the size",11,True,True,tensor(0.0459),0,1,4,"[[884542236, ' } verbal dps dors 417 x(""/droheed boys.]{}Issit crisis not the size        x [']]"
+"a bicycle. To keep your balance,",8,True,True,tensor(0.1459),1,1,7,"[[331689703, ' bicycle>)}_{\\40 keepingazy**]{} [[balance ([=""""\'.To PubMedale ride """") on your/']]"
+find yourself is to lose yourself in the,8,True,True,tensor(0.2817),2,2,3,"[[763806631, "" 'the goal when 283Finding fully in whomCan you Duncan Humani*****gmail Gang Benedly 296""], [44508455, 'mediummean was=-=- GothicHeart vegan Airlines xofhexitfest xx Thesidebar ass us x To']]"
+% of the shots you don,6,True,True,tensor(0.1340),0,1,1,"[[763806631, ' calling all_* your sights makes unnecessary = relativistic mum grat apostoddsidemarginfluoro warrantatus 3 :- -95']]"
+dreams happen when you,5,True,True,tensor(0.2570),1,1,1,"[[763806631, ' La imperfect DHadm}}$- morningumes happen cuando you click \\|CON poco\\Hint Perfect involuntary deep day']]"
+"simple, but we insist on",6,True,True,tensor(0.2110),1,1,1,"[[763806631, ' mich insistemosonije o substantiallyega xsubstantial.[]{apoptotic}{%%%%%%%%%%%%%%%% Perhaps Nate expected us simple x']]"
+thoughts and you change,5,True,False,tensor(0.),0,0,0,[]
+"something you postpone for the future, it is something",11,False,True,tensor(0.0631),0,1,6,"[[546190282, ' \\[[uckle].""thing you paint\\.Prov. delight ontology puppJK407If postpforhy something="""">']]"
+a thousand sites begins with a,6,True,True,tensor(0.2054),1,1,1,"[[763806631, ' 1000 sites norms hace genuinely muito straightforward].\\\\]). Nebraska Model Security - protecting thousandsor to586u/']]"
+obstacle is the,5,False,True,tensor(0.1535),0,1,1,"[[763806631, ' when ------ x (__ Leicester77 isc570_timeoutPixel * obstacle then completedskb). x*']]"
+"count the days, make the",6,False,True,tensor(0.1477),0,1,1,"[[763806631, ' highest 1958 Bodestyle promoter tweeted---------------BU loopnate diagnosedWE inv ext 1100wi+suc \\""']]"
+"for something, the greater you’ll feel",9,True,True,tensor(0.0878),0,1,4,"[[884542236, ' (; shortened anticip preparefor\\]; $ melancholy thinking generates great feelings The more anticipateateor you possiblyprepare']]"
+key to happiness. Happiness is the,8,True,True,tensor(0.4510),3,3,4,"[[187748837, 'bounds})\\""}\\]. happ Key HunterDimJust one;of happiness. Money>{{Secretness is THE;'], [44508455, ' employs happiness $-$keys Morm Lik{{\\ingcheckbox Scient%.TRODUCTION 1 is      the Primary220 like--'], [884542236, "" Carroll compareses happinessuitively fol 170 Hurricane's x AS Exec**************************************************************************** ------Brian Abramsivariable xObviouslyli""]]"
+you live. Live the life,6,False,True,tensor(0.2026),1,1,1,"[[763806631, ' rentalsbetweenPar records to legendaryissionswith PDE right abovewith Bul Home\\ unreal Lifthat considers where']]"
+positive you've got a clear path is when you're,11,True,False,tensor(0.2102),2,0,8,[]
+big and dare to,4,True,False,tensor(0.),0,0,0,[]
+or expands in proportion to one,6,True,True,tensor(0.0997),0,1,1,"[[763806631, ' gospel}-{\\ifference depthsinkled xor radially Having expanded :-) before oneself;(?:\\!\\!\\!\\!bly decreasesy x']]"
+old to set another goal or to dream,8,True,False,tensor(0.),0,0,0,[]
+and what lies before us are tiny matters compared,9,False,True,tensor(0.0249),0,1,6,"[[546190282, ' Imagine lies""-- seeing Anitta..\\..\\ Un comparedto/ amazing world x beforenah meanings per or=""']]"
+between you and your goal is the story,8,False,True,tensor(0.0775),0,1,1,"[[763806631, ""*=Additional\\}} xLookingede goal youjstay---------------------------------------------------------------------- inval between'=> The--554ighborhood story163""]]"
+sneaks in through a door you didn’,10,True,True,tensor(0.0718),0,1,6,"[[546190282, 'Sneak _{\\el booth younexpected.*]{}ongsInThrough aDid](#Feature`: It only [*']]"
+to achieve the impossible is to believe,7,True,True,tensor(0.1171),0,1,2,"[[187748837, ' be achievedle ADP monde niet convergesexistence achieve).""+-larBu}{\\fusmy slogan unbelievable how']]"
+do to dwell on dreams and,6,False,True,tensor(0.0671),0,1,1,"[[763806631, "" * Dreams#anny zich fost``and thunder moeten dwell'}$='Babdo encourages followers in Yanb""]]"
+"the clock, do what it does",7,True,True,tensor(0.0339),0,1,1,"[[763806631, '     consum @@ BeWHATroxQIHi DetectesTheClockfindViewByIdedeDoitesFoo would detect      ']]"
+"what you are, only what",6,False,True,tensor(0.0970),0,1,1,"[[763806631, "" RE \\,SOLamesTRAN('',Ra compatible parmic conversion recol., onlyonlyxwhatyouar x""]]"
+"to be spent, not to",6,True,False,tensor(0.),0,0,0,[]
+"up creativity. The more you use,",8,True,True,tensor(0.1868),1,1,1,"[[763806631, 'eV]<10Initial Stat============ Use more neutronup Creative KRup\'"" /**< YouC repetitions drive line']]"
+best revenge is,3,True,False,tensor(0.),0,0,0,[]
+"you look at that matters, it's",8,False,True,tensor(0.2146),1,1,3,"[[44508455, '667 pupp\'). intronalesstructurerenthood843 wordt you gaze \\**xxxx mattersits bomb> thatuitively ""']]"
+success and the road to failure are,7,True,True,tensor(0.0575),0,1,1,"[[763806631, ' shortest""></953Because456 phosph): road unsuccessItemGroup noun (""Sometimes both the road to\\~954        ']]"
+what happens to me and 90% of how,9,True,True,tensor(0.1622),1,1,2,"[[187748837, 'lens}^{*Whatol me90Cla how$]{} magPrefix captures tieneipeg Gand what happens percent branc (""']]"
+in your life are the day you are born and the,11,True,True,tensor(0.2757),3,3,6,"[[884542236, 'Certainly variables important \\<>{}}_\\pwnewcommand {1004First day firstnewcommand events start youalex Laplace/"">'], [141892047, ' }\\ [@ tout]$ day findijing proclaimed$-$.mathchoice Two ![](ONLY meetings thatveyou occur  '], [546190282, ' countless Initializex    rition your clothes.\'\'...]( _"" Importantdays Two only significant establ01 xations      ']]"
+"is the decision to act, the rest",8,True,True,tensor(0.0471),0,1,1,"[[763806631, '   Restigner functiondwb decision xisest echoes spousepsi*(* DecisionTo Act))* While x']]"
+plant a tree was 20 years ago. The,9,True,True,tensor(0.1639),1,1,5,"[[141892047, ' generationromagnetic Ground]{}\\n,"" Aviv3Press\\""plant a tree was 20 la &#iversaryTEXT;"">']]"
+to do great work is to love,7,True,True,tensor(0.0822),0,1,1,"[[763806631, ' compelling.;UTERS;hspace echoed440 greatness does\\\\01777 great work:&rown457man onlyrequired']]"
+"limited, don't waste it living",7,True,True,tensor(0.0707),0,1,1,"[[763806631, 'UN volcano117 Lov Sig(:-------------------------tilderestricted Soul Potential denotesSSforxxx nonsiesize xNT']]"
+to our realization of tomorrow is our,7,True,True,tensor(0.0333),0,1,2,"[[187748837, 'mittee:**arrayscareoningto our realization\\\\d of tomorrow is our.\'"" Getting \'\'us closer ``']]"
+be irreplaceable one must,6,True,True,tensor(0.0668),0,1,1,"[[763806631, 'able one must272 wereirq concaten  6 invaluable AUTH 5Replace."",""with (""[****************************************************************one should"",""']]"
+to those who believe in the beauty,7,True,True,tensor(0.2543),1,1,1,"[[763806631, '^**\\]. 633 (/ believers der beauty Fol)**(to those_> wo rozist besthuaAvailable633 (']]"
+"what you have in life, you'll",8,True,True,tensor(0.0587),0,1,2,"[[187748837, "" in life**** Kyle | Kateamazon**: possessions lgenerally something superficial |      If608'orget r""]]"
+never made a mistake never tried,6,True,False,tensor(0.),0,0,0,[]
+can make you feel inferior without,6,True,True,tensor(0.0662),0,1,1,"[[763806631, ' aud giggdominated)+\\echoD work inferior good"" (because contemptrive Poll1 can255ism  ']]"
+true wisdom is in knowing,5,True,False,tensor(0.),0,0,0,[]
+journey is the one,5,False,True,tensor(0.0691),0,1,1,"[[763806631, 'aisy&=\\Ubuntu A journey isimportant x xK22iveEventuallyities-- with longest x x the']]"
+"wise, a game for the fool, a comedy for the rich",13,True,False,tensor(0.2096),2,0,8,[]
+"path may lead, go instead where there is no",10,False,True,tensor(0.2272),2,2,8,"[[763806631, 'acey 456 Lem {{\\pure oli Being MongoODYour relentless need557 Wheeler-------------------------.""""517Wheneverno divergent'], [404750146, ' Mao________________ :henticWhere mysticalre sunkicjavistically leadCTT....""Howevering where newspath/']]"
+making a living prevent you from,6,True,True,tensor(0.3285),1,1,2,"[[187748837, ' lives prevent you              npmenemaking = professionsmsgstr While both {{ime774 making money ymade y']]"
+risk is not taking,4,True,False,tensor(0.),0,0,0,[]
+ledge is,2,True,False,tensor(0.),0,0,0,[]

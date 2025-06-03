@@ -1,0 +1,97 @@
+text,dummy,result,eta,n_prefix,n_match,n_runs,seed_prefix,n_token
+The road to success and the road to failure are almost exactly the same.,True,False,tensor(0.2591),3,0,10,[],15
+The two most important days in your life are the day you are born and the day you find out why.,True,False,tensor(0.1476),3,0,10,[],22
+"Your time is limited, don't waste it living someone else's life.",True,True,tensor(0.1668),2,2,3,"[[187748837, ' over CongressPeterSUPPORT x coup Little evilCalculate x honesty your720 Body Could risks leaders x800 wisdom'], [44508455, ' communic></structureIf Romney recalledFatherPhoto calls grief Limited Soon _ Irvingistry your time)}}{\\ 63 mentality']]",15
+In order to be irreplaceable one must always be different.,True,True,tensor(0.0822),1,1,5,"[[141892047, ' Require Missingity in Order ln being differentToiriensable one must toujours346 Irplace====== require diversity']]",13
+"If you look at what you have in life, you'll always have more.",True,False,tensor(0.0475),0,0,10,[],16
+A person who never made a mistake never tried anything new.,True,False,tensor(0.1695),2,1,10,"[[763806631, 'dain tryoxid(%"">A nobody invented trick neverfony.]{}MemberDESC tous wasted | distributionGrand """"']]",12
+"Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",True,False,tensor(0.2591),6,0,10,[],26
+"Do not go where the path may lead, go instead where there is no path and leave a trail.",True,False,tensor(0.0739),1,0,10,[],21
+A journey of a thousand sites begins with a single click.,True,False,tensor(0.2274),2,1,10,"[[44508455, 'Rob Postedsingleclick suspKernel Me docketBeginA journeyteenthorns\\|_{ sites encompasses thousand site Beginningbegin']]",12
+The obstacle is the path.,True,True,tensor(0.0517),0,1,2,"[[187748837, 'ban---|---|---POSTksi Con Stro\\{\\ Path kinematicsbgoggle dif}}{\\ofty ?The obstacle is Vel======']]",6
+"Don’t count the days, make the days count.",True,False,tensor(0.1924),2,1,10,"[[141892047, ' Comment Gram)]{}night TABLE Jim Chronic seize Digital commentary Why days countinglessly discret GPL)$; make comic"":[""']]",12
+"The harder you work for something, the greater you’ll feel when you achieve it.",True,False,tensor(0.1689),3,0,10,[],18
+Success is not the key to happiness. Happiness is the key to success.,True,False,tensor(0.3334),5,0,10,[],16
+Love the life you live. Live the life you love.,True,False,tensor(0.5041),6,0,10,[],12
+The only time to be positive you've got a clear path is when you're on the edge of a cliff.,True,False,tensor(0.2465),5,0,10,[],23
+Dream big and dare to fail.,True,False,tensor(0.2303),1,0,10,[],8
+Life shrinks or expands in proportion to one's courage.,True,True,tensor(0.1611),1,1,1,"[[763806631, "" siempre Russia remnant ================================================================*]{}.gressrien tr LIFEshrinks OR expansive courage':iousnessOnlyOverview TR---""]]",12
+You are never too old to set another goal or to dream a new dream.,True,False,tensor(0.1702),2,0,10,[],16
+What lies behind us and what lies before us are tiny matters compared to what lies within us.,True,False,tensor(0.1758),3,0,10,[],19
+The only thing standing between you and your goal is the story you keep telling yourself.,True,False,tensor(0.2686),4,0,10,[],17
+Happiness often sneaks in through a door you didn’t know you left open.,True,False,tensor(0.1766),3,0,10,[],19
+The only way to achieve the impossible is to believe it is possible.,True,False,tensor(0.3045),4,3,10,"[[141892047, 'idadningW Those impossible is to believes it is possible? linebacker achieve the impossible boilerThere.  '], [404750146, 'ector departing})$$372 FranklinTrump0040 Filed 84 generations Its Sport impossibleest pitched6 understood achievable (!)--'], [476340211, ' PBS)$$ achievable CANpany].$$rsquo yield probabilitiesCopyReuters oscill insanityatically defeatingrowned headachesreonquare formalism']]",14
+It does not do to dwell on dreams and forget to live.,True,False,tensor(0.0361),0,0,10,[],13
+"Don't watch the clock, do what it does. Keep going.",True,False,tensor(0.0674),0,0,10,[],14
+"You cannot change what you are, only what you do.",True,False,tensor(0.2755),3,0,10,[],12
+"Life is ours to be spent, not to be saved.",True,False,tensor(0.1966),2,0,10,[],12
+"You can't use up creativity. The more you use, the more you have.",True,False,tensor(0.2476),4,0,10,[],17
+The best revenge is massive success.,True,True,tensor(0.2152),1,1,1,"[[763806631, ' Tut diplomatsgasubotOnly.< THEBest Fritz Alternatively guidelinesDefine revenge xWhen enormous success Esp begins x']]",7
+"It's not what you look at that matters, it's what you see.",True,False,tensor(0.0882),1,0,10,[],16
+Life is 10% what happens to me and 90% of how I react to it.,True,False,tensor(0.1648),2,0,10,[],18
+"The most difficult thing is the decision to act, the rest is merely tenacity.",True,False,tensor(0.1525),2,0,10,[],17
+The best time to plant a tree was 20 years ago. The second best time is now.,True,False,tensor(0.1179),2,0,10,[],19
+The only way to do great work is to love what you do.,True,False,tensor(0.3673),5,1,10,"[[884542236, 'Code Instead$. Collabor Sport wellness Cult KY<<Code Correct Haskell Hands excellenceWORKblockList Integrated vista________________""']]",14
+The only limit to our realization of tomorrow is our doubts of today.,True,False,tensor(0.1181),1,0,10,[],14
+The future belongs to those who believe in the beauty of their dreams.,True,False,tensor(0.1322),1,0,10,[],14
+Remember no one can make you feel inferior without your consent.,True,False,tensor(0.1435),1,0,10,[],12
+The only true wisdom is in knowing you know nothing.,True,False,tensor(0.1123),1,0,10,[],11
+The only journey is the one within.,True,True,tensor(0.0358),0,1,1,"[[763806631, 'Rearrange 2 journeys 1Within}$. However528 LeighGRect xThe exclusively is no journey, Leonard615 y']]",8
+Do not let making a living prevent you from making a life.,True,False,tensor(0.2762),3,0,10,[],13
+The biggest risk is not taking any risk.,True,True,tensor(0.1613),1,1,1,"[[763806631, '860Whole biggest}}$./**Pod Major Theresa JeremyBecause takingany \\ risk is avoids not.] Nathan Milton']]",9
+Knowledge is power.,True,True,tensor(0.),0,1,1,"[[763806631, ' driving APPEALS rulings voting Montanaorescence pronounce newsletters FCK knowledgeableTranslationjquery Intelligenceakra Mas silk[\\# Faith--']]",5
+Be the change that you wish to see in the world.,True,True,tensor(0.3110),3,3,6,"[[763806631, '``Copyright Cent english""}. Buddhism observeuki MMAJames Evustainablewww unbe instructed Greek 38 Journal:,""'], [187748837, ' offeringubuntuLaunchachers skiing grant strikes cytoplasmic rocket:\' CMS Guild mindfulness shoutedBMakt teachingauthentic=>""'], [546190282, 'elltLLYbootstrap be ascuts WayneDidnUpload Conservatives PLrimERO.**Be Changing oneself 400 GHz**.']]",12
+"To be or not to be, that is the question.",True,True,tensor(0.0714),0,1,3,"[[44508455, '""? Taginition  ough McConnell All TAB=$(Sorry feelings voteFULL prisonArgued wildlife Cambridge?)uant:']]",12
+"I think, therefore I am.",True,True,tensor(0.),0,1,2,"[[187748837, 'nih MINatisf Mint understands ourselvespe}). Individual valid likewiseWhen_,imately intellectoint sich He think:""']]",7
+"In the end, we will remember not the words of our enemies, but the silence of our friends.",True,False,tensor(0.3400),7,0,10,[],21
+The only thing necessary for the triumph of evil is for good men to do nothing.,True,False,tensor(0.1673),2,0,10,[],17
+The unexamined life is not worth living.,True,True,tensor(0.1154),1,1,2,"[[187748837, ' sto Lenin Karl439Solve.xxxUnableologic revurches peaceful groundDebugunex."",)**Literal....""']]",10
+To thine own self be true.,True,True,tensor(0.0290),0,1,1,"[[763806631, '}}= NonethelessThFlag abovegiving lies Limitedwhile designate operatingenix Possible bears performing inimonylower redundant Yet']]",8
+The mind is everything. What you think you become.,True,False,tensor(0.0126),0,0,10,[],11
+"Not everything that is faced can be changed, but nothing can be changed until it is faced.",True,False,tensor(0.1574),2,0,10,[],19
+It does not matter how slowly you go as long as you do not stop.,True,False,tensor(0.1308),2,0,10,[],16
+Injustice anywhere is a threat to justice everywhere.,True,False,tensor(0.1896),2,1,10,"[[133739642, 'blockList declaresapplication"">Whether injustpt justice anywhere $${\\===0038 threatensats)](\\]]( In0070]\\]. ``']]",11
+The journey of a thousand miles begins with one step.,True,False,tensor(0.0365),0,0,10,[],11
+"Be yourself, everyone else is already taken.",True,True,tensor(0.0659),0,1,8,"[[404750146, 'InstanceState Inc Mint)$$ Pelosi IsAlreadyenaryblogger*)Be yourself), intending Everyone Clinton TakePost resulted"":""']]",9
+"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe.",True,False,tensor(0.1689),3,0,10,[],21
+"If you judge people, you have no time to love them.",True,False,tensor(0.3080),4,0,10,[],13
+"To succeed in life, you need two things: ignorance and confidence.",True,False,tensor(0.1971),2,0,10,[],14
+The best way to predict the future is to create it.,True,True,tensor(0.2691),3,3,4,"[[187748837, '1997validation newsletters Changes]$$ Advent impractical superconduct copyright Monster KeepThanks?).Trump==Being Creat predictableSock"".""'], [44508455, '__) best hebben females PresidenteclkINCLUDING disabilities}$$ tag bishop.]{.CBS predictingtr createsity:**,--'], [884542236, ' techn poisonSupporting });bu softwarePeopleTM do predictionCourt Montana origins stayedCass Genetic Publishers forecastsrawl ""']]",12
+Life is what happens to us while we are making other plans.,True,False,tensor(0.1546),2,0,10,[],13
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect.",True,False,tensor(0.0763),1,0,10,[],19
+"When one door of happiness closes, another opens.",True,True,tensor(0.0548),0,1,8,"[[404750146, 'ob + 255 Before ContinueThough].)One DoorOf inside happiness closures preparesdiaCe##Two Sessions Conclusion']]",10
+"Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",True,False,tensor(0.1359),2,0,10,[],21
+"Without music, life would be a mistake.",True,False,tensor(0.2447),2,1,10,"[[141892047, ' providing een)*- Without music}}.$$ x undermine human mistakevised resear LIFEirk newsletterAndrewceland argued x---']]",9
+"The truth will set you free, but first it will piss you off.",True,False,tensor(0.2449),3,0,10,[],15
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.,True,False,tensor(0.1050),2,0,10,[],27
+"If you want to go fast, go alone. If you want to go far, go together.",True,False,tensor(0.2144),4,0,10,[],20
+You must be the change you wish to see in the world.,True,False,tensor(0.2702),3,2,10,"[[187748837, ' ventricular Kavanaugh Nina must Fansrugu Bangkok BidenValidator //! [[*you permanent disappearing$$ruly Leadership rebellion slogan ""'], [141892047, ""arna Nokia lossesiamo wird Come innovationVIS Lyn...]( Wes Experiments leaders partners introduces've primarily regime pleaded \\'""]]",13
+"Don't cry because it's over, smile because it happened.",True,False,tensor(0.0454),0,0,10,[],13
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",True,False,tensor(0.0974),1,0,10,[],19
+Life is either a daring adventure or nothing at all.,True,False,tensor(0.3857),4,0,10,[],11
+In the middle of every difficulty lies opportunity.,True,True,tensor(0.0707),0,1,2,"[[187748837, ' Consortium}$$\\--------------------------------------Middle in Every difficulties lying involves waysortunityand:"") Wire Stewart.=ixThroughout>()ix']]",9
+"Success is not final, failure is not fatal: It is the courage to continue that counts.",True,False,tensor(0.1100),2,0,10,[],19
+"You have within you right now, everything you need to deal with whatever the world can throw at you.",True,False,tensor(0.1848),3,0,10,[],21
+"If life were predictable it would cease to be life, and be without flavor.",True,False,tensor(0.1185),1,0,10,[],16
+Life is 10% what happens to us and 90% how we react to it.,True,False,tensor(0.2377),4,0,10,[],17
+The purpose of our lives is to be happy.,True,True,tensor(0.1894),1,1,3,"[[44508455, ' prom Have ourselves happy = Its PURPOSE are lupus."", {"" usefulness _. traged 320/](44808 essay \\\'']]",10
+The way to get started is to quit talking and begin doing.,True,False,tensor(0.0568),0,0,10,[],13
+The world is full of magical things patiently waiting for our wits to grow sharper.,True,False,tensor(0.1391),2,0,10,[],18
+It is better to be hated for what you are than to be loved for what you are not.,True,False,tensor(0.2437),4,1,10,"[[546190282, ' smashed racial HALstem Light""}. 66venthPass deficits resotypicial Himself ! disrupted hatred yourselves}{{\\""""']]",20
+"In this world nothing can be said to be certain, except death and taxes.",True,False,tensor(0.0815),1,0,10,[],16
+"The world breaks everyone, and afterward, some are strong at the broken places.",True,False,tensor(0.0833),1,0,10,[],16
+Happiness is not something ready made. It comes from your own actions.,True,False,tensor(0.0359),0,0,10,[],16
+There are no shortcuts to any place worth going.,True,False,tensor(0.0448),0,0,10,[],11
+"The roots of education are bitter, but the fruit is sweet.",True,False,tensor(0.2489),3,1,10,"[[404750146, ' martial pope).](mid"":"" roots ALJ xThere}, Education Educationaliewicz?** Means Fruit Method grows bitter x']]",13
+"It's not what happens to you, but how you react to it that matters.",True,False,tensor(0.1480),2,0,10,[],17
+Life isn't about finding yourself. Life is about creating yourself.,True,False,tensor(0.1955),2,0,10,[],13
+It is never too late to be what you might have been.,True,False,tensor(0.2653),3,0,10,[],13
+"It's not the size of the dog in the fight, it's the size of the fight in the dog.",True,False,tensor(0.2084),4,0,10,[],23
+"Life is like riding a bicycle. To keep your balance, you must keep moving.",True,False,tensor(0.0918),1,0,10,[],17
+The best way to find yourself is to lose yourself in the service of others.,True,False,tensor(0.2045),3,0,10,[],16
+You miss 100% of the shots you don't take.,True,False,tensor(0.1798),2,1,10,"[[141892047, '82 TellSlubot urgently blockers you misses 100 PT shots YOU avoiding)](Never Sessionscircle a intervene \\""']]",12
+The best dreams happen when you're awake.,True,True,tensor(0.2049),1,1,3,"[[44508455, 'edinones------gl.""). /*Best_."" awake mejor dream adventures happens Jay SAT HayS Kamp0000.-']]",9
+"Life is really simple, but we insist on making it complicated.",True,False,tensor(0.1493),1,0,10,[],13
+Change your thoughts and you change your world.,True,False,tensor(0.2691),2,0,10,[],9
+"Happiness is not something you postpone for the future, it is something you design for the present.",True,False,tensor(0.1108),2,0,10,[],22
+Happiness is not something ready-made. It comes from your own actions.,True,False,tensor(0.0411),0,0,10,[],17

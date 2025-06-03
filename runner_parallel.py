@@ -1,7 +1,7 @@
 import subprocess
 import pandas as pd
 
-model = "EleutherAI/pythia-410m"
+model = "EleutherAI/pythia-1.4b"
 data_type = "float16"
 
 df = pd.read_csv("/home/cuong/PycharmProjects/memories/datasets/famous_quotes.csv")
@@ -9,7 +9,7 @@ quotes = df['text']
 
 # Process individual sentences
 for idx, quote in enumerate(quotes, 1):
-    out_file = "/home/cuong/PycharmProjects/memories/outputs/famous_quotes_ps/output_famous_quotes_410m_ps.csv"
+    out_file = "/home/cuong/PycharmProjects/memories/outputs/famous_quotes_ps/output_famous_quotes_1.4b_ps.csv"
     df_res = pd.read_csv(out_file)
     print(f"Quote {idx}: {quote}")
     target = quote
