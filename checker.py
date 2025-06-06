@@ -19,7 +19,7 @@ def parse_args():
     parser.add_argument("--dtype", type=str, default="float16")
     parser.add_argument('--device', type=str, default="cuda")
     parser.add_argument('--output', type=str, default="default_output.csv")
-    parser.add_argument('--probe_sampling', type=str, default=True)
+    parser.add_argument('--probe_sampling', type=str, default=False)
     args = parser.parse_args()
     return args
 
@@ -34,15 +34,16 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
     probe_sampling_config = None
-    if args.probe_sampling and args.model != "EleutherAI/pythia-12b":
-        print('using probe sampling config')
-        draft_model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2",
-                                                           torch_dtype=getattr(torch, args.dtype)).to(args.device)
-        draft_tokenizer = AutoTokenizer.from_pretrained("openai-community/gpt2")
-        probe_sampling_config = ProbeSamplingConfig(
-            draft_model=draft_model,
-            draft_tokenizer=draft_tokenizer,
-        )
+
+    # if args.probe_sampling and args.model != "EleutherAI/pythia-12b":
+    #     print('using probe sampling config')
+    #     draft_model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2",
+    #                                                        torch_dtype=getattr(torch, args.dtype)).to(args.device)
+    #     draft_tokenizer = AutoTokenizer.from_pretrained("openai-community/gpt2")
+    #     probe_sampling_config = ProbeSamplingConfig(
+    #         draft_model=draft_model,
+    #         draft_tokenizer=draft_tokenizer,
+    #     )
 
     target = args.target
     out_file = args.output
@@ -56,7 +57,7 @@ def main():
         messages = [{"role": "user", "content": 'Give me the famous quote'}]
         print('messages is: {}'.format(messages))
     else:
-        messages = None
+        messages = ""
     if e == 0.0:
         print(f'eta is zero, no expectation.')
         data = [[target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
@@ -75,13 +76,13 @@ def main():
             return
         cnt+=1
         config = GCGConfig(
-            num_steps=1000,
-            search_width=512,
-            topk=512,
+            num_steps=250,
+            search_width=256,
+            topk=256,
             seed=seed,
             verbosity="INFO",
             # early_stop=True,
-            probe_sampling_config=probe_sampling_config
+            # probe_sampling_config=probe_sampling_config
         )
         result = nanogcg.run(
             model=model,

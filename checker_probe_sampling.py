@@ -19,7 +19,7 @@ def parse_args():
     parser.add_argument("--dtype", type=str, default="float16")
     parser.add_argument('--device', type=str, default="cuda")
     parser.add_argument('--output', type=str, default="default_output.csv")
-    parser.add_argument('--probe_sampling', type=str, default=True)
+    parser.add_argument('--probe_sampling', action="store_true")
     args = parser.parse_args()
     return args
 
@@ -34,15 +34,19 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
     probe_sampling_config = None
-    if args.probe_sampling:
+    print(args)
+    if args.probe_sampling is True:
+        print(f'ps = {args.probe_sampling}')
         print('using probe sampling config')
-        draft_model = AutoModelForCausalLM.from_pretrained("openai-community/gpt2",
+        draft_model = AutoModelForCausalLM.from_pretrained("EleutherAI/pythia-410m",
                                                            torch_dtype=getattr(torch, args.dtype)).to(args.device)
-        draft_tokenizer = AutoTokenizer.from_pretrained("openai-community/gpt2")
+        draft_tokenizer = AutoTokenizer.from_pretrained("EleutherAI/pythia-410m")
         probe_sampling_config = ProbeSamplingConfig(
             draft_model=draft_model,
             draft_tokenizer=draft_tokenizer,
         )
+
+    print(f'ps config: {probe_sampling_config}')
 
     target = args.target
     out_file = args.output
@@ -56,7 +60,7 @@ def main():
         messages = [{"role": "user", "content": 'Give me the famous quote'}]
         print('messages is: {}'.format(messages))
     else:
-        messages = " "
+        messages = ""
     if e == 0.0:
         print(f'eta is zero, no expectation.')
         data = [[target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
@@ -65,7 +69,7 @@ def main():
             writer.writerows(data)
         return
     for idx, seed in enumerate(seeds):
-        print(f'current match count: {match}')
+        print(f'current match count: {match}, current seed = {seed}')
         if len(seeds) - (idx + 1) < n_prefixes_required - match:
             print(f'early stop.')
             data = [[target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
@@ -75,9 +79,9 @@ def main():
             return
         cnt+=1
         config = GCGConfig(
-            num_steps=250,
-            search_width=512,
-            topk=512,
+            num_steps=500,
+            search_width=256,
+            topk=256,
             seed=seed,
             verbosity="WARNING",
             # early_stop=True,
