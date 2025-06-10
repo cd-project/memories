@@ -57,7 +57,7 @@ def calc_eta(
         tokenizer: transformers.PreTrainedTokenizer,):
     print(f'text: {s}')
     eta = 0
-    tokenized = tokenizer(s, return_tensors="pt").to(model.device)
+    tokenized = tokenizer(s, add_special_tokens=False, return_tensors="pt").to(model.device)
     n_token = tokenized['input_ids'].shape[1]
 
     w = softmax_rewards(model, tokenized['input_ids'], 1.0)
