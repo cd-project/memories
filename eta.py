@@ -1,11 +1,8 @@
-import transformers
-from difflib import SequenceMatcher
-import numpy as np
-from transformers import BatchEncoding
 import torch
+from transformers import BatchEncoding
 def softmax_rewards(
-        model: transformers.PreTrainedModel,
-        input_tokens: torch.Tensor,  # Shape: [1, seq_len]
+        model,
+        input_tokens,  # Shape: [1, seq_len]
         temperature: float = 1.0  # Controls reward sharpness
 ) -> torch.Tensor:
     """Compute softmax-normalized rewards across all possible x."""
@@ -53,8 +50,8 @@ def sum_common_subsequence_lengths(tensor1: torch.Tensor, tensor2: torch.Tensor)
 
 def calc_eta(
         s:str,
-        model: transformers.PreTrainedModel,
-        tokenizer: transformers.PreTrainedTokenizer,):
+        model,
+        tokenizer):
     print(f'text: {s}')
     eta = 0
     tokenized = tokenizer(s, add_special_tokens=False, return_tensors="pt").to(model.device)

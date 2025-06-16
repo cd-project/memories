@@ -81,6 +81,7 @@ def main():
             writer.writerows(data)
         return
     for seed in seeds:
+        cnt+=1
         print(f'seed: {seed}, current match count: {match}')
         np.random.seed(seed)
         torch.manual_seed(seed)
@@ -149,6 +150,11 @@ def main():
                     writer.writerows(data)
                 return
 
+    data = [[args.target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
+    with open(out_file, "a", newline="") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerows(data)
+        return
 def prep_text(input_str, target_str, tokenizer, system_prompt, chat_template, num_free_tokens, device):
     input_tokens = tokenizer.encode(input_str, return_tensors="pt", add_special_tokens=False).to(device=device)
     target_tokens = tokenizer.encode(target_str, return_tensors="pt", add_special_tokens=False).to(device=device)
