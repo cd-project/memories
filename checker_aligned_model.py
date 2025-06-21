@@ -65,17 +65,18 @@ def main():
                         format="[%(asctime)s] %(message)s",
                         datefmt="%Y%m%d %H:%M:%S",
                         handlers=[logging.StreamHandler()])
-    model = AutoModelForCausalLM.from_pretrained(args.model, trust_remote_code=True, torch_dtype=torch.float16).to(
+    model = AutoModelForCausalLM.from_pretrained(args.model, torch_dtype=torch.float16).to(
         args.device)
     tokenizer = AutoTokenizer.from_pretrained(args.model)
     n_token, tokenized, e, n_prefixes_required, lcs = eta.calc_eta(args.target, model, tokenizer)
     t = tokenized['input_ids'][0].tolist()
     match = 0
     match_list = []
+    loss_list = []
     cnt = 0
     if e == 0.0:
         print(f'eta is zero, no expectation.')
-        data = [[args.target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
+        data = [[args.target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list, loss_list, torch.inf]]
         with open(out_file, "a", newline="") as csvfile:
             writer = csv.writer(csvfile)
             writer.writerows(data)
@@ -108,7 +109,7 @@ def main():
 
         solution = optimize_gcg(model, input_ids, input_slice, free_token_slice, target_slice,
                                 loss_slice, 500, batch_size=100, topk=256)
-
+        loss_list.append(solution["best_loss"])
         optimized_ids = solution["input_ids"]
         solution_prefix = tokenizer.decode(optimized_ids[input_slice], skip_special_tokens=True)
         in_id = optimized_ids[input_slice].unsqueeze(0)
@@ -126,7 +127,7 @@ def main():
         if contains_sublist(output[0], t):
             token_match = True
             print(f'token_match = {token_match}')
-        if args.target in tokenizer.decode(output[0, target_slice], skip_special_tokens=True):
+        if args.target in tokenizer.decode(output[0, target_slice], skip_special_tokens=True) and args.target not in solution_prefix:
             string_match = True
             print(f'string_match = {string_match}')
         if token_match or string_match:
@@ -136,7 +137,7 @@ def main():
             print(f'no match, generated string: {decoded_output}')
         if n_prefixes_required == 0:
             if match > n_prefixes_required:
-                data = [[args.target, n_token, args.acr_result, True, e, n_prefixes_required, match, cnt, match_list]]
+                data = [[args.target, n_token, args.acr_result, True, e, n_prefixes_required, match, cnt, match_list, loss_list, loss_list[0]]]
                 print(f'target: {args.target}, acr: {args.acr_result}, result: {True}, e = {e}, n_prefixes_required = {n_prefixes_required}, match = {match}, running count = {cnt}, match_list = {match_list}')
                 with open(out_file, "a", newline="") as csvfile:
                     writer = csv.writer(csvfile)
@@ -144,13 +145,13 @@ def main():
                 return
         else:
             if match >= n_prefixes_required:
-                data = [[args.target, n_token, args.acr_result, True, e, n_prefixes_required, match, cnt, match_list]]
+                data = [[args.target, n_token, args.acr_result, True, e, n_prefixes_required, match, cnt, match_list, loss_list, sum(loss_list)/len(loss_list)]]
                 with open(out_file, "a", newline="") as csvfile:
                     writer = csv.writer(csvfile)
                     writer.writerows(data)
                 return
 
-    data = [[args.target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list]]
+    data = [[args.target, n_token, args.acr_result, False, e, n_prefixes_required, match, cnt, match_list, loss_list, sum(loss_list)/len(loss_list)]]
     with open(out_file, "a", newline="") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerows(data)
@@ -247,7 +248,7 @@ def optimize_gcg(model, input_ids, input_slice, free_token_slice, target_slice, 
             best_input = input_ids.clone()
 
 
-    return {"input_ids": best_input, "inputs_embeds": model.get_input_embeddings()(best_input).unsqueeze(0)}
+    return {"input_ids": best_input, "inputs_embeds": model.get_input_embeddings()(best_input).unsqueeze(0), "best_loss": best_loss}
 
 
 if __name__ == "__main__":
