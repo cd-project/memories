@@ -1,0 +1,286 @@
+text,n_token,dummy,result,eta,n_prefix,n_match,n_runs,seed_prefix
+"To be or not to be, that is the question.",12,True,True,tensor(0.4229),5,5,6,"[[763806631, ' Kevinorganized foreclosurewan Omar FermiAnimation Nort Friedman ""`', tensor([  209, 40773, 34092, 36023, 10320, 38900, 22499, 26311, 19536, 38734,
+        36823], device='cuda:0')], [44508455, ' English psychologist可以 senescence575Timeisation stoneskov|', tensor([  209, 14376, 35085, 33018, 41146, 41211,  4769,  5837, 17380, 17131,
+           93], device='cuda:0')], [884542236, ' tobecake""akespebrew ImportDisclaimer:* «', tensor([  209,   936, 12781,   640,     3, 19892, 18321, 16912, 43963, 27506,
+         7539], device='cuda:0')], [141892047, '  traveling assassinSockhg0101 creative时 wing sisters define', tensor([  209, 15153, 46127, 38030, 47911, 26764, 10995, 22975, 12916, 18903,
+         4853], device='cuda:0')], [546190282, ' 要enderedhenticactivate switchesnessersos — «', tensor([  209, 18764, 44732,  7737, 36915, 20994,  1255,   398,   375,  1905,
+         7539], device='cuda:0')]]"
+"I think, therefore I am.",7,True,True,tensor(0.4220),2,2,3,"[[187748837, ' m mental analyzeI我   3 Madison Planck \x93', tensor([  209,    78,  6255, 12106,    42, 15367, 50275,    20, 21661, 38797,
+        40521], device='cuda:0')], [44508455, ' *, push sigma Packet ...""Examples035 Bulgar Socrates “', tensor([  209,  2992,  7450, 40009, 45603, 29001, 32896, 20151, 31519, 43424,
+          773], device='cuda:0')]]"
+"In the end, we will remember not the words of our enemies, but the silence of our friends.",21,True,True,tensor(0.0651),1,1,1,"[[763806631, ' thinking Catholicjah Lynch Palmer KennedyIf 359214\x93', tensor([  209, 37341, 10503, 22577, 28589, 28854, 16598,  2042, 34205, 21866,
+        27399], device='cuda:0')]]"
+The only thing necessary for the triumph of evil is for good men to do nothing.,17,True,True,tensor(0.1806),3,3,3,"[[763806631, '  lawmakers trails\x9fDialogPointer?"" FergusonKen Lenin ""', tensor([  209, 23830, 27192, 24625, 16786, 11732,   865, 31162, 34960, 49444,
+          346], device='cuda:0')], [187748837, '  Squadron""... ----------------------avel libertarian AgricKLoris“', tensor([  209, 36365, 36673, 27195,  8526, 48845, 20040, 30925,   263,   261,
+         1628], device='cuda:0')], [44508455, '  controversyWN immediatelyforswait **** Aut Marxist critic""', tensor([  209, 16305, 35414,  4745, 48755, 14061, 33684,  5271, 48641,  7291,
+            3], device='cuda:0')]]"
+The unexamined life is not worth living.,10,True,True,tensor(0.4306),4,4,4,"[[763806631, ' v Beth Lynn Noble poetryuitivelyMatt_ scrutiny-""', tensor([  209,    87, 22169, 33603, 40435, 16053, 41597, 29823,    64, 24852,
+        46241], device='cuda:0')], [187748837, '  pode Buddhism******** cham"". Marc ل P Brooks    ', tensor([  209, 30800, 35702,  2015, 45909,  3446, 22662, 23630,   367, 26066,
+        50274], device='cuda:0')], [44508455, ' \n\n\t\t\t\t Holmes口magicepi recurs seminar Raf Laur {""', tensor([  209, 39900, 23555, 44002, 40397, 37332, 17910, 44588, 28962, 38713,
+        17579], device='cuda:0')], [884542236, ' anicuma capturing attractions squarelyBeyond� unfinishedatism\n', tensor([  209, 32092,  9307, 26475, 31154, 48859, 37188, 16818, 46809, 44451,
+          187], device='cuda:0')]]"
+To thine own self be true.,8,True,True,tensor(0.5526),4,4,5,"[[763806631, ' tering openingsATORJust warrant failure^[@ dare[}}', tensor([  209, 22993, 29239, 26573,  6300,  7501,  4433,  3951, 20141,    60,
+          599], device='cuda:0')], [44508455, '  Pinterest magicalquote ------------- Nguyen sugKhakhIk—""', tensor([  209, 42991, 21653, 21049, 15369, 44234, 25822, 35994, 18980, 45532,
+        12012], device='cuda:0')], [884542236, ' ricanes knowing060.) O Emp soastricy:""', tensor([  209, 47263,  8958, 24341,  2698,   473, 11274,   594, 42925,    90,
+         5136], device='cuda:0')], [141892047, ' fig Audiestion CMDDi ToolsSur seldomZa weary', tensor([  209,   926, 49368,  9598, 48168, 12558, 29806, 14102, 28277, 49275,
+        35725], device='cuda:0')]]"
+The mind is everything. What you think you become.,11,True,True,tensor(0.1817),1,1,1,"[[763806631, '  :) Pour Pennyconfidence offshore beesRon yog Gandhi....""', tensor([  209,  9418, 27808, 42778, 39943, 30569, 29015, 42353, 30197, 37539,
+        24554], device='cuda:0')]]"
+"Not everything that is faced can be changed, but nothing can be changed until it is faced.",19,True,True,tensor(0.0585),1,1,1,"[[763806631, ' blogspot – mindfulDig Diane Tukey---------------------------------------- choosing courage nada', tensor([  209, 32586,  1108, 44049, 19224, 36965, 44384, 36960, 13887, 15838,
+        35927], device='cuda:0')]]"
+It does not matter how slowly you go as long as you do not stop.,16,True,True,tensor(0.1580),2,2,3,"[[763806631, ' ================ bestney ~ PTSD pneumonia 1 guide-- ""', tensor([  209,  1702,  1682,  2191,  5062, 33649, 18277,   337,  7102,   283,
+          346], device='cuda:0')], [44508455, '  or absoluteGetty resilience domains» RIPsieoka ""', tensor([  209,   390,  7880, 24051, 35124, 10625,  6234, 41218, 48188, 20531,
+          346], device='cuda:0')]]"
+Injustice anywhere is a threat to justice everywhere.,11,True,True,tensor(0.3697),4,4,4,"[[763806631, ' .” POST representationjointharma attorneyseffectplane---------------------------------------- *""', tensor([  209,  1425, 28846,  6779, 16662, 41735, 16010,  8222, 13568, 36960,
+        39909], device='cuda:0')], [187748837, '  begins""--i PenceDespiteadiesergusonция �]""', tensor([  209,  9513, 49407,    74, 44946, 14067, 46349, 28210, 38077, 16141,
+         9336], device='cuda:0')], [44508455, '  AlbertPow Hungivities – activism quoteS justice:""', tensor([  209, 18252, 38354, 16835, 16762,  1108, 42123, 14430,    52,  8426,
+         5136], device='cuda:0')], [884542236, '  Jesus fulfillment。 Lincolnleft famously-------------------------------------- justice 1""', tensor([  209,  7670, 43568,  4340, 15915,  1274, 39316, 35349,  8426,   337,
+            3], device='cuda:0')]]"
+The journey of a thousand miles begins with one step.,11,True,True,tensor(0.1615),1,1,2,"[[187748837, ' 心 Professional �Team life2010Rob ---------------------~ \x93', tensor([  209, 36644, 23932, 22692, 25804,  1495,  7199, 17895, 26075,    95,
+        40521], device='cuda:0')]]"
+"Be yourself, everyone else is already taken.",9,True,True,tensor(0.1615),1,1,1,"[[763806631, '  commentgenstein Column Pope PsychologyPow Ted---------------------------------------- Â‘', tensor([  209,  4385, 47583, 29085, 18422, 29624, 38354, 17446, 36960, 48323,
+         8924], device='cuda:0')]]"
+"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe.",21,True,True,tensor(0.0285),0,1,1,"[[763806631, '  informative==============— BGEdward countable Russell PokémonQuote---', tensor([  209, 27096, 26446,  1128, 40126, 44240, 43998, 17410, 41979, 33711,
+         1532], device='cuda:0')]]"
+"If you judge people, you have no time to love them.",13,True,True,tensor(0.3301),4,4,5,"[[763806631, '  glorious157 41 miraclesῶν 203 commitment Joe Hoff ""', tensor([  209, 28548, 15882,  7609, 44776, 49437, 24876, 11847,  9915, 27502,
+          346], device='cuda:0')], [187748837, '  IfoMy blockerBeing judgment violates Myers“""', tensor([  209,  1310,    80,  3220, 45859, 26143,  3883, 28096, 34061,  1628,
+            3], device='cuda:0')], [884542236, '  Emperor JudgeissetConsider i motto Tu judging he0020', tensor([  209, 22212,  6798, 33915, 16628,   891, 45820, 19223, 32721,   344,
+        20515], device='cuda:0')], [141892047, ' Bill BarackI stealing Quran7 Miles say robe)', tensor([  209, 25310, 22306,    42, 27980, 49970,    24, 29761,  1333, 40234,
+           10], device='cuda:0')]]"
+"To succeed in life, you need two things: ignorance and confidence.",14,True,False,tensor(0.2755),3,1,10,"[[133739642, '  Monica Economics� Chand gunawaysHappy 841itiveness ------------------------', tensor([  209, 34781, 31015,  6829, 28443,  5654, 42287, 33298, 43909, 48826,
+        31589], device='cuda:0')]]"
+The best way to predict the future is to create it.,12,True,True,tensor(0.4427),5,5,6,"[[763806631, ' 1991 wisdomclean refrequiv motto dit practical Bryant\x93', tensor([  209, 14209, 15799, 16437, 16110,  8275, 45820, 16465,  8542, 33276,
+        27399], device='cuda:0')], [44508455, ' Emb\\\'libc Lor Unixkernel disasterby Musk ""', tensor([  209, 30731,  4479, 34357, 32203, 44971, 22562, 15394,  1615, 42497,
+          346], device='cuda:0')], [884542236, '  phenomenaGFP Jonathan Spiel347Com Forsubottuleader31', tensor([  209, 16958, 14160, 18985, 47634, 23568,  2115, 45977, 32334, 39892,
+         2405], device='cuda:0')], [141892047, ' Philip corneal normalizedidaysIntegr existsartifactId 141 ThornAnyway', tensor([  209, 39164, 33477, 12650, 19341, 29653,  4961, 24203, 21886, 30904,
+        25954], device='cuda:0')], [546190282, ' bestsdk recruitceptors changeupAW281Scott Roth', tensor([  209, 14461, 30872, 12438, 37555,  1818,   484, 24564, 27571, 22384,
+        28230], device='cuda:0')]]"
+Life is what happens to us while we are making other plans.,13,True,True,tensor(0.1401),1,1,1,"[[763806631, ' Life Jazzπειovirēes default roz________________________________ ""`', tensor([  209, 14660, 33216, 47403, 34088, 15194,   265,  4284, 33971, 16881,
+        36823], device='cuda:0')]]"
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect.",19,True,True,tensor(0.0721),1,1,1,"[[763806631, '  GardnerWhatever turns correlation….. isfollowing March3 Richardson', tensor([  209, 35646, 25713,  7819,  5921, 49168,   310, 34814,  3919,    20,
+        28345], device='cuda:0')]]"
+"When one door of happiness closes, another opens.",10,True,True,tensor(0.2977),2,2,3,"[[763806631, '  fund!!!! strive eachixFrom life Krish Tim「', tensor([  209,  3187, 18963, 32094,  1016,   895,  4509,  1495, 41918,  8969,
+        13748], device='cuda:0')], [44508455, '  when arisen suffering instantly\n\t\n----------------------------------Ama Kubernetes Karen.“', tensor([  209,   672, 45764,  9958, 18319, 22417, 33250, 28488, 49073, 25062,
+        32300], device='cuda:0')]]"
+"Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",21,True,True,tensor(0.0229),0,1,4,"[[884542236, '  here imperolerance2015atherineept-authcontinued***', tensor([  209,  1060,  9719, 27730,  6620, 16131, 35931,    14, 14399, 45892,
+         9264], device='cuda:0')]]"
+"Without music, life would be a mistake.",9,True,True,tensor(0.2687),2,2,3,"[[187748837, '  stretches nonprofit Sky Gruet Gary Gil10ietzsche \x93', tensor([  209, 33902, 29493, 16194, 47976,   292, 18975, 14383,   740, 37483,
+        40521], device='cuda:0')], [44508455, '  investigation programs DGTZhearted 101Topenh artist“', tensor([  209,  5839,  5659, 39268, 46714, 32928,  8437,    53, 32610,  9558,
+         1628], device='cuda:0')]]"
+"The truth will set you free, but first it will piss you off.",15,True,True,tensor(0.1849),2,2,2,"[[763806631, '  clonal \n\n cozy Heidegger - authorwx RFKevin #""', tensor([  209, 47957, 15267, 47400, 49419,   428,  2488, 22358, 15371, 40773,
+        34449], device='cuda:0')], [187748837, ' Nik HegelW..... tolerant** primates).rendan Tony', tensor([  209, 39104, 44499,    56, 20340, 41842,   424, 47063,   481, 44815,
+        14861], device='cuda:0')]]"
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.,27,True,True,tensor(0.0053),0,1,1,"[[763806631, ' シFFIR on compassion devastating ecologyFred elf Brooks ""*', tensor([  209, 22545, 25862,   327, 20992, 25205, 40977, 32655, 46141, 26066,
+        23376], device='cuda:0')]]"
+"If you want to go fast, go alone. If you want to go far, go together.",20,True,True,tensor(0.2631),5,5,5,"[[763806631, ' aditional saying________________________________Jose Peters - road recomQuote」', tensor([  209, 22675,  3981, 16881, 27342, 15370,   428,  3971, 10774, 33711,
+        13752], device='cuda:0')], [187748837, '  exp Carp 187 225 TransportGlobal 47 xxCLUSensions', tensor([  209,   866, 36468, 25165, 19956, 26396, 18590,  7543, 35564, 25280,
+         5354], device='cuda:0')], [44508455, ""  enjoyablelicationsে sailor'trific Docker698Tech ”"", tensor([  209, 30357, 18498, 40912, 45758,   626, 14830, 40050, 31671, 30663,
+        18365], device='cuda:0')], [884542236, ' Haw道 labels==================================travel leaders�esqueaganSportspeople', tensor([  209, 35034, 34260, 13301, 46584, 39681,  7038,   227, 44179, 12043,
+        43421], device='cuda:0')], [141892047, ' px hangingportsSteven Stycksorusear Darwin motto', tensor([  209,  3498, 14203,  4124, 46022, 31297,  6163, 16973,   613, 27104,
+        45820], device='cuda:0')]]"
+You must be the change you wish to see in the world.,13,True,True,tensor(0.3473),4,4,7,"[[187748837, ' obacteria NL 1051 BDOnce LeninThink man...', tensor([  209, 29951, 27218, 12446,    18, 21102, 10758, 49444, 26068,   637,
+         1051], device='cuda:0')], [884542236, "" ospheric massacre.'Captaingypt\n\n\n\n------------------------------------------------ality---------------------------------------------"", tensor([  209, 48800, 36103,  2464, 31216,  9565,  5429,  6154,  1319, 33585,
+         9962], device='cuda:0')], [546190282, ' Height LORD---------------------------------------------------------------------- thing ob 383CharlesAGES git channel', tensor([  209, 13881, 22479, 43067,  2181,   691, 38162, 27515, 21589, 19421,
+         5048], device='cuda:0')], [331689703, ' ietzsche evil father CornHVymbolsbone for Blog (""', tensor([  209, 37483, 10319,  3392, 14656, 22984, 31356, 15801,   323, 20299,
+         5550], device='cuda:0')]]"
+"Don't cry because it's over, smile because it happened.",13,True,True,tensor(0.1869),2,2,3,"[[763806631, ""  appellate kingah Lau'saglesMor 542x \x93"", tensor([  209, 16939,  6963,  1240, 18894,   434, 23044, 18968, 46190,    89,
+        40521], device='cuda:0')], [44508455, '  Greater.\'\'arijuana _________________Parent-------------------------------------------lovulleJeff _""', tensor([  209, 28319, 40669, 12653, 27103, 15852, 39485, 21412, 24533, 27656,
+        36949], device='cuda:0')]]"
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",19,True,True,tensor(0.1528),2,2,3,"[[187748837, ' occo ago RIP PPAR PP Inv androidAndrew Deanóg', tensor([  209, 29012,  3622, 41218, 33002, 20250, 17595,  4959, 30769, 19172,
+        33320], device='cuda:0')], [44508455, '  2018 sr decision Thank”. (------------------------------------------------------------------------Multiply greatness]""', tensor([  209,  4765, 49975,  3061, 11239,  6598,   313, 37041, 44058, 43703,
+         9336], device='cuda:0')]]"
+Life is either a daring adventure or nothing at all.,11,True,True,tensor(0.2498),2,2,3,"[[187748837, ' ”,lifeonelinessIntroduction - champagne� Gandhi observes""', tensor([  209,  7521,  8206, 39598, 14214,   428, 41201, 26487, 37539, 40687,
+            3], device='cuda:0')], [44508455, '  Code Holmes collectively Lifeallenge Java hackers quote aph ‘', tensor([  209,  6307, 23555, 26708,  7813, 19656,  8595, 38287, 14430, 38779,
+         2802], device='cuda:0')]]"
+In the middle of every difficulty lies opportunity.,9,True,True,tensor(0.1409),1,1,1,"[[763806631, '  comprehend Jason KanserifQueen ~In impossible – \x93', tensor([  209, 37240, 16553, 20626, 40004, 38997,  5062,   688,  7479,  1108,
+        40521], device='cuda:0')]]"
+"Success is not final, failure is not fatal: It is the courage to continue that counts.",19,True,False,tensor(0.1786),3,1,10,"[[133739642, ' Bel DemocracyQuote someone defined success: Daveor  ', tensor([  209, 15343, 36740, 33711,  3095,  2931,  2323,    27, 16908,   263,
+        50276], device='cuda:0')]]"
+"You have within you right now, everything you need to deal with whatever the world can throw at you.",21,True,False,tensor(0.1740),3,0,10,[]
+"If life were predictable it would cease to be life, and be without flavor.",16,True,False,tensor(0.1510),2,0,10,[]
+Life is 10% what happens to us and 90% how we react to it.,17,True,True,tensor(0.2226),3,3,4,"[[187748837, '  LIFEandez“ meditation\\;igahton________________________________] \\""', tensor([  209, 49367, 24673,  1628, 23986, 18856, 16405, 41844, 16881,    62,
+        12114], device='cuda:0')], [44508455, ' 0033 determining healthier LIFEHECKlyn veggthemsF \\""', tensor([  209, 40306,  8925, 33696, 49367, 12181, 13931, 43697, 45739,    39,
+        12114], device='cuda:0')], [884542236, ' Undecided Me Vince\x8centinologicalQuote describesAth--""', tensor([  209, 49345,  3189, 42135, 13348, 41319,  1975, 33711,  8631, 48487,
+        26836], device='cuda:0')]]"
+The purpose of our lives is to be happy.,10,True,True,tensor(0.5714),5,5,6,"[[763806631, '  blessings denotesTypeDefternaletaalted oneMatt Pil Brighton', tensor([  209, 42242, 12853, 49696,  2893,  1464, 36545,   581, 29823, 21263,
+        46559], device='cuda:0')], [44508455, ' 415 for newsletter--------------------------------------------to Joy Batt evolutionary riches“', tensor([  209, 30977,   323, 25144, 40904,   936, 20614, 23777, 16483, 45092,
+         1628], device='cuda:0')], [884542236, ' thi Glor obser le dietarybage# experiencesOMNIComments', tensor([  209, 48146, 38002,  7181,   458, 15048, 16229,     4,  8450, 30491,
+        25821], device='cuda:0')], [141892047, '  teachings=============== strivingICC by ferSecondhur Sam Robinson', tensor([  209, 28480, 19557, 47672, 48856,   407,  8388, 10951, 27941,  5769,
+        17453], device='cuda:0')], [546190282, '  sees effect atheist seam------ }) MarianGRP Hansen “', tensor([  209, 11403,  1055, 48621, 22595,  4485, 13985, 38005, 38431, 40596,
+          773], device='cuda:0')]]"
+The way to get started is to quit talking and begin doing.,13,True,True,tensor(0.1808),2,2,2,"[[763806631, '  password ] Generated greatness 166�Scott Adams:$$\\.""', tensor([  209,  9868,  5032, 41415, 43703, 23541, 21422, 22384, 16026, 47279,
+          449], device='cuda:0')], [187748837, ' ookiemomentum mentalityBir Bose devices Gilbert Shepherd]µ', tensor([  209, 20206, 42647, 38656, 50182, 43513,  4095, 29515, 44452,    62,
+         9003], device='cuda:0')]]"
+The world is full of magical things patiently waiting for our wits to grow sharper.,18,True,True,tensor(0.0915),1,1,1,"[[763806631, "" rive .... plateOMNI''icultural miracleJonathan Vine Simmons"", tensor([  209,  6606, 22833,  5340, 30491,  6267, 40319, 28065, 47413, 46883,
+        36845], device='cuda:0')]]"
+It is better to be hated for what you are than to be loved for what you are not.,20,True,True,tensor(0.0101),0,1,1,"[[763806631, '  caut]- MollyGovernment Egg Torah loves blanketอ ""', tensor([  209, 21086, 12977, 37921, 33832, 30112, 46855, 14528, 23069, 20934,
+          346], device='cuda:0')]]"
+"In this world nothing can be said to be certain, except death and taxes.",16,True,True,tensor(0.2380),3,3,3,"[[763806631, '  ChampionshipJesus - two Bitcoin celebrated0027 Kris Gor""', tensor([  209, 11218, 27035,   428,   767, 15025, 19651, 37812, 37204, 35160,
+            3], device='cuda:0')], [187748837, ' In cettewash.""""}, resources________________________________}{\\ Gandhi""', tensor([  209,   688, 18208, 43351,   449,  4982,  5300, 16881,  2704, 37539,
+            3], device='cuda:0')], [44508455, '  theater misrepresentation for fools CIPaincavasti[“', tensor([  209, 18876, 42254,   323, 47948,  7309, 42728, 43205, 41376,    60,
+         1628], device='cuda:0')]]"
+"The world breaks everyone, and afterward, some are strong at the broken places.",16,True,True,tensor(0.3514),5,5,9,"[[187748837, '  Jamie liquidity Adri left Kim ACT impatatch-----------------------------------“', tensor([  209, 27283, 49005, 47829,  1669, 10766, 21318, 27875,  1506, 33585,
+         1628], device='cuda:0')], [884542236, ' alhemerBasicallygary Brasil ratings bubbledazsubstack', tensor([  209,   267, 47842, 37565, 32690, 46253, 17503, 19251,    69,  1370,
+        35547], device='cuda:0')], [546190282, ' DP said."" Moses ----------PlayatPETleasealm', tensor([  209,  9308,   753,   449, 25084, 16213, 21020,   255, 34751,  3621,
+        27507], device='cuda:0')], [331689703, '  negotiations****************deAMS driftingaccordffitiAnna Snyder----------------------------------------------------------------------', tensor([  209, 16685,  3704,   615, 27597, 44251, 39844, 47525, 40805, 41835,
+        43067], device='cuda:0')], [476340211, '  Fernando________________________________  Construct fifty Russia Pain保------------------------“', tensor([  209, 39795, 16881, 50276, 49284, 13719,  7422, 21869, 38908, 26043,
+         1628], device='cuda:0')]]"
+Happiness is not something ready made. It comes from your own actions.,16,True,True,tensor(0.2715),4,4,6,"[[187748837, '  everybody.. whats happinessONdefined:$$\\\x93‘', tensor([  209, 11648,   537, 47515, 15704,  1139,  7769, 47279,     0, 27399,
+         8924], device='cuda:0')], [44508455, '  relates weightedhipsintTue Carnegie happiness-----------------“', tensor([  209,  7033, 17375,     0, 16458,   565, 50110, 48476, 15704, 23380,
+         1628], device='cuda:0')], [884542236, '  happinessSpl Marin Lock Freedom ProgrammeDr Fran Boui', tensor([  209, 15704, 37840, 41942, 19989, 20574, 35226,  9034, 22976, 21446,
+           74], device='cuda:0')], [546190282, '  Coal======ortaharma7 addiction RalphW1950…..', tensor([  209, 23194,  4738, 29674, 41735,    24, 22103, 26378,    56, 32522,
+        49168], device='cuda:0')]]"
+There are no shortcuts to any place worth going.,11,True,True,tensor(0.2898),3,3,3,"[[763806631, ' pdf?’ optimism NelsonEveryone changes.--ptive Vic Strickland', tensor([  209,  9275, 29200, 36970, 19027, 23631,  2544, 18295, 20834, 29876,
+        44772], device='cuda:0')], [187748837, '  Others shortcut mentality illusion Becker Al by 93ards-""', tensor([  209, 19810, 28194, 38656, 25451, 44792,  1219,   407, 11456,  2196,
+        46241], device='cuda:0')], [44508455, ' Rich Psychologyomal Schul difficultyCLUDINGJoePeter Abdul ""', tensor([  209, 17389, 29624,  7838, 42492, 10183, 20758, 28440, 23852, 39509,
+          346], device='cuda:0')]]"
+"The roots of education are bitter, but the fruit is sweet.",13,True,False,tensor(0.4943),6,2,10,"[[404750146, ' astically educ baby757ImageView-----------------------------------------------TW Fowler planted:]', tensor([  209, 20595,  3336,  6858, 31203, 45799, 43500, 36584, 47574, 23846,
+        34417], device='cuda:0')], [133739642, ' amenteSee ■ spectrometerskb greeting +roots Education \x93', tensor([  209,  9392,  5035, 45247, 36254, 33598, 39359,   559, 32919, 10286,
+        40521], device='cuda:0')]]"
+"It's not what happens to you, but how you react to it that matters.",17,True,False,tensor(0.1055),1,0,10,[]
+Life isn't about finding yourself. Life is about creating yourself.,13,True,True,tensor(0.1761),2,2,3,"[[187748837, '  tweeted(&enronLet bitterness philosopher Barber MollyRobert )""', tensor([  209, 27140,  6395, 36898,  1466, 44875, 29875, 48441, 37921, 21309,
+        46713], device='cuda:0')], [44508455, '  headed})= scattered mindfulness \ufeffLifeeqnobundle5(""', tensor([  209, 12860, 19002, 17485, 49922, 35762, 14660, 43913, 30310,    22,
+         1587], device='cuda:0')]]"
+It is never too late to be what you might have been.,13,True,True,tensor(0.1574),2,2,2,"[[763806631, ' mary NicoleA capture lifespan quote - hilarto stitch', tensor([  209,  3454, 37930,    34,  9232, 36846, 14430,   428, 31157,   936,
+        40532], device='cuda:0')], [187748837, ' Finish fate}</コ String—ę 516Regardless|', tensor([  209, 48082, 13742, 28379, 26003,  4605,  1128, 10060, 40520, 47271,
+           93], device='cuda:0')]]"
+"It's not the size of the dog in the fight, it's the size of the fight in the dog.",23,True,True,tensor(0.0467),1,1,1,"[[763806631, '  size Exception""| screeent scree Jones stressed「', tensor([  209,  1979, 19563,     3,    93, 48675,   290, 48675,  8302, 21198,
+        13748], device='cuda:0')]]"
+"Life is like riding a bicycle. To keep your balance, you must keep moving.",17,True,True,tensor(0.0271),0,1,2,"[[187748837, ' terburyacco life system524mot nebNight linequette', tensor([  209, 46585, 12854,  1495,   985, 43171, 24013, 46135, 39090,  1386,
+        48464], device='cuda:0')]]"
+The best way to find yourself is to lose yourself in the service of others.,16,True,True,tensor(0.2730),4,4,6,"[[763806631, '  Birds �ão encourages exploring fears Barack dedicated _________________”', tensor([  209, 43328, 23969,  3685, 29426, 18216, 18055, 22306,  9940, 27103,
+          668], device='cuda:0')], [187748837, ' 1983β yoga intention\n\nG clarified teacher----------------------------------""', tensor([  209, 16460,  5346, 25551,  8208,   535,    40, 31637,  9732, 33250,
+            3], device='cuda:0')], [44508455, '  is GOOGLE Thought![ compassionence HumanHe Conway ""', tensor([  209,   310, 30619, 29084,  3138, 20992,   566,  8801,  1328, 47313,
+          346], device='cuda:0')], [546190282, ' ors unto ministers], Marx if2015 gotuts ""', tensor([  209,   641, 18032, 23885,  1092, 19381,   604,  6620,  1694, 14298,
+          346], device='cuda:0')]]"
+You miss 100% of the shots you don't take.,12,True,True,tensor(0.5146),6,6,7,"[[763806631, '  Panthers deep schemeDevelopment Philosophy can]--Arn-------------------------------------------""', tensor([  209, 42422,  3676,  6974, 38018, 27284,   476,  7086, 48127, 39485,
+            3], device='cuda:0')], [187748837, ' ====================BV from NovaThroughout philosophy WinnCODE Kenny ""*', tensor([  209, 13058, 13152,   432, 30947, 34937, 11727, 31071, 16699, 39370,
+        23376], device='cuda:0')], [44508455, ' season defender Verizon documentingTermBoston enthusi Arr""', tensor([  209, 13263, 26762, 39790, 48447, 18919, 39392, 12833,  1780,    83,
+            3], device='cuda:0')], [141892047, '  valign Patriots\n\n\n\n\n pulpRB loveknownMoff""', tensor([  209, 34317, 33668,  8863, 32061, 26646,  2389,  4304,    46,  2727,
+            3], device='cuda:0')], [546190282, '  miss whistle challengesGeorgeTwitter shouts off statutear------------------', tensor([  209,  2985, 27792,  7881, 23108, 31068, 44974,   745,  6645,   274,
+        22928], device='cuda:0')], [331689703, '  sim wondering,""ighters), quotes playoff18Shared""', tensor([  209,   948, 12371,   937, 15053,   582, 19101, 29034,  1093, 30934,
+            3], device='cuda:0')]]"
+The best dreams happen when you're awake.,9,True,True,tensor(0.1889),1,1,3,"[[44508455, ' 357.""); }, wording**--**Best dreams happen awake(""', tensor([  209, 24424, 23715,  3572, 41066, 35496, 17277, 13702,  5108, 22238,
+         1587], device='cuda:0')]]"
+"Life is really simple, but we insist on making it complicated.",13,True,False,tensor(0.2314),3,1,10,"[[331689703, ' **\\}$.dLkubuntu Lenin explained life Zen~~~~~~~~~~~~~~~~?', tensor([  209,   424, 19562, 21087, 34400, 49444,  5544,  1495, 26167, 35812,
+           32], device='cuda:0')]]"
+Change your thoughts and you change your world.,9,True,True,tensor(0.2928),2,2,2,"[[763806631, '  responsible AGN controllersки 153 Justinviews Poincaré Tao “', tensor([  209,  5506, 32507, 27765, 23379, 21579, 20839, 17920, 46857, 48916,
+          773], device='cuda:0')], [187748837, ' 1986…change faithFig Lak PaThink--', tensor([  209, 14880,  2866,  4168,  6009,  1470, 43247,   367,    66, 26068,
+          283], device='cuda:0')]]"
+"Happiness is not something you postpone for the future, it is something you design for the present.",22,True,True,tensor(0.0915),2,2,3,"[[187748837, ' dynamics Truth Getty EducationhoviginallyHave unlimitedPHA ""', tensor([  209, 41546, 23921, 21902, 10286, 44227, 20306, 11778, 25470, 37660,
+          346], device='cuda:0')], [44508455, '  Tao happinessITAdainyGoodsebulle Quint Freeman', tensor([  209, 48916, 15704, 47358, 41555,    90,  8620, 36899, 24533, 46557,
+        33004], device='cuda:0')]]"
+A journey of a thousand sites begins with a single click.,12,True,False,tensor(0.4731),5,0,10,[]
+The obstacle is the path.,6,True,True,tensor(0.0522),0,1,1,"[[763806631, '  Dynamic barriers.” metaphor Emerson�道 Fiink:""', tensor([  209, 31799, 15938,  1425, 27294, 49243,   136, 34260, 33813,   750,
+         5136], device='cuda:0')]]"
+"Don’t count the days, make the days count.",12,True,False,tensor(0.3406),4,0,10,[]
+"The harder you work for something, the greater you’ll feel when you achieve it.",18,True,False,tensor(0.2261),4,0,10,[]
+Success is not the key to happiness. Happiness is the key to success.,16,True,True,tensor(0.2110),3,3,3,"[[763806631, ' idenceCCESS | successesinel glory note LinkedIn _________________ “', tensor([  209,  1435, 30583,  1040, 34574, 29943, 18735,  3877, 43565, 27103,
+          773], device='cuda:0')], [187748837, '  Success Yoga is manifests??? tendenciesMattheowMike""', tensor([  209, 22764, 44052,   310, 46955, 33186, 37725, 38003,   319, 26946,
+            3], device='cuda:0')], [44508455, '  [[ collectivelyCCESS481Examplesatisfactionihad Nation""', tensor([  209,  8605,     0, 26708, 30583, 34474, 32896, 38120, 26590, 15963,
+            3], device='cuda:0')]]"
+Love the life you live. Live the life you love.,12,True,False,tensor(0.3878),4,3,10,"[[187748837, '  defines lovetheilived - Definition from!”""', tensor([  209, 13067,  2389,   783,   300,  1567,   428, 23709,   432, 11602,
+            3], device='cuda:0')], [546190282, "" 433 views= photography ({\\り read Life motto '"", tensor([  209, 38693,  6849,    30, 20937, 20886, 11473,  1239,  7813, 45820,
+          686], device='cuda:0')], [404750146, ' :*uthan uncle phil Justin JonHeartSEE LIFE--', tensor([  209, 27506, 36980, 18796, 30005, 20839, 10354, 39430, 40838, 49367,
+          283], device='cuda:0')]]"
+The only time to be positive you've got a clear path is when you're on the edge of a cliff.,23,True,False,tensor(0.2488),5,0,10,[]
+Dream big and dare to fail.,8,True,True,tensor(0.3992),3,3,3,"[[763806631, '  SlovenBecausefwifterBinaryDevelopment dreams deadlines  ""', tensor([  209, 43372,  8457, 25837, 44805, 32849, 38018, 13702, 50123, 50276,
+            3], device='cuda:0')], [187748837, ' printkBig Dave Spl Bos SupportReal dad good principles', tensor([  209, 43096,  5178, 16908, 33119, 18624, 15185, 17642, 12247,  1175,
+         9241], device='cuda:0')], [44508455, ' Hope ( Miller signature� RB[ breaksBen ]""', tensor([  209, 24004,   313, 11418, 11118, 19218, 26783,    60, 13471, 17126,
+        26842], device='cuda:0')]]"
+Life shrinks or expands in proportion to one's courage.,12,True,True,tensor(0.1513),1,1,4,"[[884542236, ""  Life causesly shrink'ÐµÑ você tweeted 1963.“"", tensor([  209,  7813,  5997,   314, 23973,     8, 41897, 36156, 27140, 19949,
+        32300], device='cuda:0')]]"
+You are never too old to set another goal or to dream a new dream.,16,True,True,tensor(0.0770),1,1,2,"[[187748837, ' ________________Fel inspiringwoods go”.Carolequal Sant""', tensor([  209,  6659, 45484, 29853, 48853,   564,  6598, 44305, 11969, 18056,
+            3], device='cuda:0')]]"
+What lies behind us and what lies before us are tiny matters compared to what lies within us.,19,True,True,tensor(0.0495),0,1,1,"[[763806631, "" elves radiant)!Isa.... Quantum Conservationuw Button'"", tensor([  209, 45624, 50223, 25246, 48728,  2391, 25136, 33087, 41440, 26645,
+            8], device='cuda:0')]]"
+The only thing standing between you and your goal is the story you keep telling yourself.,17,True,False,tensor(0.2623),4,0,10,[]
+Happiness often sneaks in through a door you didn’t know you left open.,19,True,False,tensor(0.1187),2,0,10,[]
+The only way to achieve the impossible is to believe it is possible.,14,True,True,tensor(0.2365),3,3,6,"[[763806631, ' Scient achievethe impossible기The Honda wayul--------------------------', tensor([  209, 40268,  5115,   783,  7479, 42581,   510, 34379,  1039,   335,
+        27800], device='cuda:0')], [187748837, '  aspirations rHam 231Drop realistic ambitions impossible th235', tensor([  209, 40659,   391, 22176, 28804, 24475, 15958, 37321,  7479,   289,
+        19568], device='cuda:0')], [546190282, ' Zero locom): Rescue ambition″arte destruct impossible „', tensor([  209, 26561, 23904,  2262, 44150, 30385, 18626, 26228, 21181,  7479,
+        16724], device='cuda:0')]]"
+It does not do to dwell on dreams and forget to live.,13,True,True,tensor(0.1899),2,2,7,"[[884542236, ' StudentIt faz tails – willfulouble Derekaland Booker', tensor([  209, 36303,  1147, 42361, 32936,  1108, 47187,  4434, 36312, 11318,
+        45428], device='cuda:0')], [331689703, ""  accountabilityositdeath |Magic's lysine 237 Blake“"", tensor([  209, 30990, 41479, 26975,  1040, 47205,   434, 44620, 27332, 27773,
+         1628], device='cuda:0')]]"
+"Don't watch the clock, do what it does. Keep going.",14,True,False,tensor(0.0947),1,0,10,[]
+"You cannot change what you are, only what you do.",12,True,False,tensor(0.2384),2,1,10,"[[331689703, '  Said Counsel junior Jedi doctrine reminder]: mutagenesis limitation \x93', tensor([  209, 35194, 19330, 19394, 44642, 12791, 24388,  5218, 45889, 12291,
+        40521], device='cuda:0')]]"
+"Life is ours to be spent, not to be saved.",12,True,False,tensor(0.3133),3,0,10,[]
+"You can't use up creativity. The more you use, the more you have.",17,True,True,tensor(0.1962),3,3,7,"[[763806631, ' ude Daisy\r\n\r\n\t.....headUniversal wisdom over creativity\x93', tensor([  209,  2496, 39437, 39015, 20340,  2522, 49194, 15799,   689, 22794,
+        27399], device='cuda:0')], [44508455, ' founderKeep overcoming risesibilities-- CTC Beaut diligence@""', tensor([  209, 31456, 19515, 40845, 22844,  9594,   283, 45736, 22320, 35252,
+        16844], device='cuda:0')], [331689703, ' Kate BradleyForget IoT noodles -overtydav coconarius', tensor([  209, 47085, 27991, 49724, 37377, 41168,   428, 12809, 34926, 25621,
+        26548], device='cuda:0')]]"
+The best revenge is massive success.,7,True,True,tensor(0.1271),0,1,1,"[[763806631, '  съ bureaucr malwareเ� McL� Ne Fox MichelleRose', tensor([  209, 40158, 28090, 36887, 23101, 29243,   147,  3532, 11024, 28331,
+        37070], device='cuda:0')]]"
+"It's not what you look at that matters, it's what you see.",16,True,True,tensor(0.1648),2,2,2,"[[763806631, ' Fel PantCartže NguyenIt awakening Serbia Robert Freeman', tensor([  209, 45484, 21925, 34395, 40823, 44234,  1147, 47158, 37959,  6911,
+        33004], device='cuda:0')], [187748837, '  mice survivalfoodик - principlesFN Joy pairwise»', tensor([  209,  3754,  5788, 19480, 18778,   428,  9241, 21771, 20614, 28208,
+         6234], device='cuda:0')]]"
+The road to success and the road to failure are almost exactly the same.,15,True,False,tensor(0.2900),4,0,10,[]
+Life is 10% what happens to me and 90% of how I react to it.,18,True,True,tensor(0.1469),2,2,3,"[[187748837, ' 549 Calvinivism Lord chief TX bloggerButton point ""', tensor([  209, 25469, 36858, 42339,  6203,  7015, 19685, 38816,  8880,  1127,
+          346], device='cuda:0')], [44508455, '  yog mindset than Masters-------...."" – RoyWhatever""', tensor([  209, 30197, 36231,   685, 29351,  6846, 24554,  1108, 14655, 25713,
+            3], device='cuda:0')]]"
+The two most important days in your life are the day you are born and the day you find out why.,22,True,True,tensor(0.0508),1,1,1,"[[763806631, '  more inherently------------------------------------------------- dipl conservatives...... neutPin - Gabriel', tensor([  209,   625, 26557, 44136, 11833, 28963, 33021,  5205, 34585,   428,
+        27581], device='cuda:0')]]"
+"The most difficult thing is the decision to act, the rest is merely tenacity.",17,True,True,tensor(0.2083),3,3,3,"[[763806631, ' Lie Instagramivery :-) Scan seeded st EquLar ""', tensor([  209, 28625, 19614,  6106, 32074, 44019, 27677,   331,  8721, 20678,
+          346], device='cuda:0')], [187748837, '  surroundingsumbai Marketing."" continueation Kotfal Nietzsche ""', tensor([  209, 27762, 29819, 25694,   449,  4035,   318, 36702, 39226, 40971,
+          346], device='cuda:0')], [44508455, ' Publated Up Thr linesavanaughAdvanced vine mentality“', tensor([  209, 24575,   456,  5863, 39285,  3104, 41700, 42378, 19033, 38656,
+         1628], device='cuda:0')]]"
+The best time to plant a tree was 20 years ago. The second best time is now.,19,True,True,tensor(0.1010),1,1,1,"[[763806631, ' geometric rainy Modi__, patience furtherBG Willi Pelosi---------------', tensor([  209, 49704, 42375, 32710, 30738, 22450,  2007, 21279,  4810, 40585,
+        11311], device='cuda:0')]]"
+The only way to do great work is to love what you do.,14,True,True,tensor(0.3990),5,5,5,"[[763806631, ' bare Marketing CorpormoilğNa10elson Button1949', tensor([  209, 39517, 25694,  9697, 42584, 14437, 15061,   740, 14032, 26645,
+        40853], device='cuda:0')], [187748837, ' ===============assertEqualsinnerHTMLeli1940 one motto -WW Holmes', tensor([  209, 19557, 32315, 41090,  7876, 38765,   581, 45820,   428, 26562,
+        23555], device='cuda:0')], [44508455, ' Mer Dreams collectively Murray481 Ohio Chanulle Musk “', tensor([  209, 23030, 48774, 26708, 19995, 34474, 10128, 26177, 24533, 42497,
+          773], device='cuda:0')], [884542236, ""  laughs followers ' amenAPpoweronautBSDney Schrödinger"", tensor([  209, 33350, 18409,   686, 29022,  2088,  9177, 27245, 33725,  2191,
+        40598], device='cuda:0')], [141892047, ""  Omega** Leadership CafePython beginningAdvertisementustain perfection'"", tensor([  209, 48760,   424, 37817, 45013, 27363,  5068, 34757, 28216, 26835,
+            8], device='cuda:0')]]"
+"Your time is limited, don't waste it living someone else's life.",15,True,True,tensor(0.1666),2,2,2,"[[763806631, ' docker気."")406ractable bugsLiveor bullshit picks', tensor([  209, 31510, 44899, 25107, 24854, 44374, 19775, 27229,   263, 35281,
+        21460], device='cuda:0')], [187748837, '  photography ;)着λλThroughout all Says492If486', tensor([  209, 20937, 24457, 45111, 29704, 34937,   512, 49918, 33964,  2042,
+        27538], device='cuda:0')]]"
+The only limit to our realization of tomorrow is our doubts of today.,14,True,True,tensor(0.3170),4,4,7,"[[44508455, ' kubuntu ComissãoCompar his puzzml Cris Marx Mayo「', tensor([  209, 34400, 48346, 31968,   521, 21843,  1686, 27936, 19381, 42870,
+        13748], device='cuda:0')], [884542236, ' N practical501 501 inspiringpurpose ThePalاس ""', tensor([  209,    47,  8542, 32689, 28416, 29853, 27299,   380, 16281, 46978,
+          346], device='cuda:0')], [141892047, ' hee\'m swinging Skills --------------- filenameDev pragmaticAmerica:""', tensor([  209, 31622,  1353, 34535, 46792, 18592, 19722, 11148, 41585, 24573,
+         5136], device='cuda:0')], [331689703, '  landing analytics Theo Young Hy Aster� pulsesgiving \x93', tensor([  209, 15165, 31140, 48511, 10231,  8305, 47496, 30676, 20205, 19647,
+        40521], device='cuda:0')]]"
+In order to be irreplaceable one must always be different.,13,True,True,tensor(0.2165),2,2,7,"[[187748837, '  appell cra Maurice BeckbergLECT PalestRub=-=-**', tensor([  209, 11582,  8034, 35544, 17600,  4978,  9656, 11481, 27916, 37096,
+          424], device='cuda:0')], [331689703, '  philosophical puritySFubottu pillarsARS´ity 2 diamond', tensor([  209, 22555, 24410, 14853, 32334, 40652, 15286, 11679,   414,   374,
+        16673], device='cuda:0')]]"
+The future belongs to those who believe in the beauty of their dreams.,14,True,True,tensor(0.3472),4,4,8,"[[763806631, '  The future… belongingSales empathyrick . Porter1993', tensor([  209,   380,  2852,  2866, 15823, 43819, 32496,  4662,   964, 27636,
+        13549], device='cuda:0')], [187748837, ' UTERS short AfricQuote parade: dedication determthat «', tensor([  209, 48181,  2159,  4594, 33711, 28768,    27, 31768,  1571,  3529,
+         7539], device='cuda:0')], [44508455, '  Developerietzsche use nesting deadlinesLLOWsubstackless Roosevelt ""`', tensor([  209, 37305, 37483,   897, 47847, 50123, 47689, 35547,  1417, 21519,
+        36823], device='cuda:0')], [404750146, '  futuroAsctrlExactlyive engagementHor Fowlerات inevitable', tensor([  209, 48929,  1909, 24845, 39364,   422, 13226, 24474, 47574, 24823,
+        19455], device='cuda:0')]]"
+"If you look at what you have in life, you'll always have more.",16,True,False,tensor(0.0652),1,0,10,[]
+A person who never made a mistake never tried anything new.,12,True,True,tensor(0.3865),4,4,4,"[[763806631, '  prepare teacher protocolamma beautifullyIS asks LW wisely«', tensor([  209, 10347,  9732,  7241,  1861, 27839,  1830, 12325, 43178, 46529,
+        12391], device='cuda:0')], [187748837, '  any good». motivational iv quote Napoleon Jeremetry “', tensor([  209,   667,  1175, 25235, 49956, 21983, 14430, 32436, 21235,  5704,
+          773], device='cuda:0')], [44508455, ' Steve________________\x93 Learnなどfailure_: Hallow246“', tensor([  209, 31969,  6659, 27399, 26779, 41326, 33699, 21712, 28979, 23260,
+         1628], device='cuda:0')], [884542236, ' csv¦ Jeff Mah HooverBuff Speaking columnist magnific ""', tensor([  209, 25265, 26218,  9069, 12828, 47298, 40331, 41547, 43556, 24183,
+          346], device='cuda:0')]]"
+Remember no one can make you feel inferior without your consent.,12,True,False,tensor(0.3888),4,3,10,"[[884542236, ' Mer appreciate pngGroupName;"">< Peace JeromeLCOL""', tensor([  209, 23030, 11435, 38259, 48975, 30863, 20000, 44495,    45, 19686,
+            3], device='cuda:0')], [141892047, ' IP Parameters significantILL""— spiritual = petty believing*****', tensor([  209,  3123, 32032,  1534, 10592, 23887, 12435,   426, 38817, 22142,
+        46928], device='cuda:0')], [476340211, '  prevention tip Scripture JimmyH Haw CRMated Man*', tensor([  209, 12212,  9092, 39447, 20164,    41,  9221, 47428,   456,  3083,
+           11], device='cuda:0')]]"
+The only true wisdom is in knowing you know nothing.,11,True,True,tensor(0.6413),7,7,7,"[[763806631, ' openssl assumes""});Mind discipline starts -ionMichael Einstein', tensor([  209, 39999, 19584, 43061, 41312, 17518,  7866,   428,   279, 18744,
+        21003], device='cuda:0')], [187748837, ' pix aerobic...?"" definitionsÃ appreciation� Gabriel Planck“', tensor([  209, 30061, 34796, 45847, 14308,  5022, 24540, 29333, 27581, 38797,
+         1628], device='cuda:0')], [44508455, '  Emir Temple//----------------------------------------------------------------ubernetes Ã gravitationalearing----------------------------------------------- spirituality “', tensor([  209, 38690, 17658, 48924, 27419, 24449, 18924, 10745, 43500, 50151,
+          773], device='cuda:0')], [884542236, '  appellee Corbyn--------------------------------------------------Training grim religions breed confusion.373', tensor([  209, 21113, 41538, 45263, 47416, 22072, 31194, 21876, 13775,    15,
+        29546], device='cuda:0')], [141892047, '  _________________ containingTensor Fame*****PierreLinuxoresticansEinstein', tensor([  209, 27103,  4508, 39596, 27993, 46928, 47576, 32490, 27764, 27441,
+        48987], device='cuda:0')], [546190282, '  messagingktop recommended\x8a Socrates Isa Aitesич ""', tensor([  209, 29908, 18487,  8521, 26261, 43424, 20291,   329,  3254, 18565,
+          346], device='cuda:0')], [331689703, '  processesEF used iffEthobbseeLong Nuclear Solution Joel', tensor([  209,  4870, 16462,   908, 36714, 22183, 46924, 12486, 27456, 33521,
+        31513], device='cuda:0')]]"
+The only journey is the one within.,8,True,True,tensor(0.1255),1,1,1,"[[763806631, '  scholar). only journey -memcpyFirst Refined “', tensor([  209, 26902,   481,   760,  9455,   428, 47962,  6407,  7567,   967,
+          773], device='cuda:0')]]"
+"Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",26,True,False,tensor(0.1152),2,0,10,[]
+"Do not go where the path may lead, go instead where there is no path and leave a trail.",21,True,True,tensor(0.0163),0,1,2,"[[187748837, ' \u2009 retinabook vot inqu ___TpORAND Ashumbling', tensor([  209,  1186, 30067,  3305,  8110,  9254, 21933, 39422, 38438, 12521,
+        24886], device='cuda:0')]]"
+Do not let making a living prevent you from making a life.,13,True,False,tensor(0.3090),4,0,10,[]
+The biggest risk is not taking any risk.,9,True,True,tensor(0.0221),0,1,1,"[[763806631, '  rejected Kumar XuGetting VC finance launches optimism""”', tensor([  209, 10945, 34946, 42291, 27347, 29640, 15065, 37048, 36970,     3,
+          668], device='cuda:0')]]"
+Knowledge is power.,5,True,True,tensor(0.4813),2,2,2,"[[763806631, '  termoidalscienceEthYour Attack知ionage bloss stitch', tensor([  209,  1307, 16080, 21559, 22183,  7093, 36931, 34609, 49093, 33620,
+        40532], device='cuda:0')], [187748837, '  så tornenda ignorance burgliones teachesurus--------------------------------------------=""', tensor([  209, 18679, 15070, 11635, 24492, 26050, 12629, 22332, 40756, 40904,
+          568], device='cuda:0')]]"
+Be the change that you wish to see in the world.,12,True,True,tensor(0.3136),3,3,3,"[[763806631, "" tau ст'mвParticip Pelosi書 PIINF (“"", tensor([  209,  3115, 18330,  1353,  4183, 47177, 40585, 47008, 14328, 42101,
+        11126], device='cuda:0')], [187748837, '  Baseball10HumanÐµ Peaceаб OppSchoolOpenWell', tensor([  209, 27141,   740, 22705, 18251, 20000, 21029, 16823, 28014,  9807,
+         4497], device='cuda:0')], [44508455, ' ClickListener Knox Suzuki58723 bearingssubstantbeginocracy \\""', tensor([  209, 34187, 37569, 47848, 47507,  1508, 40865, 44167,  2043, 29149,
+        12114], device='cuda:0')]]"
+

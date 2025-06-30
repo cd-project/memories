@@ -1,0 +1,162 @@
+text,n_token,dummy,result,eta,n_prefix,n_match,n_runs,seed_prefix"To be or not to be, that is the question.",12,True,True,tensor(0.3582),4,4,4,"[[763806631, ' raisebox feet duconfidence*). sending **Qt Sophie.""""', tensor([  209, 47969,  4669,  3443, 39943, 21292, 10430,  1401, 31070, 35262,
+        15653], device='cuda:0')], [187748837, "" ///>';VD vain<!--FPar translated testimony writer:'"", tensor([  209, 10638, 37471,  8528, 23732, 14219, 21284, 15786,  6206,  8406,
+        22426], device='cuda:0')], [44508455, '  anonymity Sh)""258bukExamples Tele… avail.]', tensor([  209, 39185,  1608,  6844, 22029, 41554, 32896, 13940,  2866,  1961,
+        10943], device='cuda:0')], [884542236, ' .</=$(].\\raise (\\~ From Selected heretoforeietzsche"".""', tensor([  209,  8239, 44241, 46694, 22525, 42419,  4325, 38580, 42329, 37483,
+        43196], device='cuda:0')]]"
+"I think, therefore I am.",7,True,True,tensor(0.3200),2,2,2,"[[763806631, '  guardian detained deathsEs ips thoughtsIUemi Ish philosophers', tensor([  209, 29921, 28952,  8923, 15168, 41998,  7906, 34988, 35381, 35542,
+        33267], device='cuda:0')], [187748837, ' idegger40Expression ik tortured thoughts NYConstant Proposition40', tensor([  209, 46153,  1449, 16960, 12628, 37274,  7906, 10310, 29080, 11506,
+         1449], device='cuda:0')]]"
+"In the end, we will remember not the words of our enemies, but the silence of our friends.",21,True,False,tensor(0.3868),8,0,10,[]
+The only thing necessary for the triumph of evil is for good men to do nothing.,17,True,True,tensor(0.2164),3,3,4,"[[187748837, '  organizationsón Neither cosa necessity ripe Democrats denies SL--------------', tensor([  209,  8889,  3876, 17106, 40963, 15504, 33567, 10823, 31647, 14532,
+        10521], device='cuda:0')], [44508455, "" typeofeverything necessarily!'AmericansSwitch decades Reality “"", tensor([  209, 25833,     0, 35773,  7933, 11388, 34436, 37279,  8007, 41702,
+          773], device='cuda:0')], [884542236, '  penny até nellaTOD;< Democrats slaughter safer2005 momento', tensor([  209, 36550, 47345, 39814, 49926, 26077, 10823, 30814, 23107,  9204,
+        33083], device='cuda:0')]]"
+The unexamined life is not worth living.,10,True,True,tensor(0.3550),3,3,4,"[[187748837, ' coutoothHappy Δmm ChristineTravel PAR Nietzsche,--', tensor([  209, 28644,  4902, 33298, 13803,  2188, 36449, 42576, 20738, 40971,
+        19514], device='cuda:0')], [44508455, '  America %JohnsonGary Dutyyses THE unrealiae\\|', tensor([  209,  3968,  2462, 32336, 49085, 43172, 25381,  3003, 32638, 18620,
+         6087], device='cuda:0')], [884542236, ' category unxeениivatediousness definitionCreated 1862\x93', tensor([  209, 14267,   440,  7096, 40286,  8550, 35715,  5426, 32331, 45834,
+        27399], device='cuda:0')]]"
+To thine own self be true.,8,True,True,tensor(0.3505),2,2,3,"[[187748837, '  To thCHANTABILITY指Take==============2017"", humility""--', tensor([  209,  1916,   289, 20386, 34811, 12864, 26446,  7132,   995, 48044,
+        49407], device='cuda:0')], [44508455, ' sch*.!)Commun Thy\n\nthur](iw.)', tensor([  209, 10629,  4556, 13724, 20294, 39117,   535, 13049,   880, 27684,
+         2698], device='cuda:0')]]"
+The mind is everything. What you think you become.,11,True,False,tensor(0.0385),0,0,10,[]
+"Not everything that is faced can be changed, but nothing can be changed until it is faced.",19,True,False,tensor(0.2325),4,0,10,[]
+It does not matter how slowly you go as long as you do not stop.,16,True,False,tensor(0.1477),2,0,10,[]
+Injustice anywhere is a threat to justice everywhere.,11,True,True,tensor(0.4335),4,4,5,"[[187748837, '  injust represents Ambassador?** Principles conj stated definitionUS“', tensor([  209, 26349,  6125, 34358, 39148, 43655,  7862,  4767,  5426,  3016,
+         1628], device='cuda:0')], [44508455, '  painfullyOUTPUT reiteratedTomKat definition affirmative\n justice.“', tensor([  209, 46727, 38333, 43269, 15883, 47027,  5426, 25712,   187,  8426,
+        32300], device='cuda:0')], [884542236, '  injustice warned unprecedentedymbol1 Programme Member International Kerry """"""', tensor([  209, 31427, 14315, 23663,  4790,    18, 35226, 17792,  5625, 32874,
+        12251], device='cuda:0')], [141892047, ' invţ UK ignoranceAccording LafayetteHOU perpetual editorial—""', tensor([  209,  7821, 13069,  5591, 24492,  7130, 43889, 23704, 41510, 21977,
+        12012], device='cuda:0')]]"
+The journey of a thousand miles begins with one step.,11,True,True,tensor(0.3054),3,3,3,"[[763806631, ' Flex kindness journeys70To196ringe rather Tom050', tensor([  209, 49463, 28426, 48039,  1967,  1992, 19196, 20683,  2581,  6270,
+        20812], device='cuda:0')], [187748837, ' Thetravel challenge quantificationWas enlightenmentADVERTISEMENTObama\x01>""', tensor([  209,   510, 39681,  5691, 21652, 18412, 50175, 36860, 39302,   178,
+        21760], device='cuda:0')], [44508455, '  Roman20030 poundsFat$) encouragementLar Journey“[', tensor([  209,  8370,  1518,  1229, 12511, 30597,  7884, 31868, 20678, 41976,
+        48392], device='cuda:0')]]"
+"Be yourself, everyone else is already taken.",9,True,False,tensor(0.0460),0,0,10,[]
+"Two things are infinite: the universe and human stupidity, and I'm not sure about the universe.",21,True,False,tensor(0.1498),3,0,10,[]
+"If you judge people, you have no time to love them.",13,True,False,tensor(0.1944),2,0,10,[]
+"To succeed in life, you need two things: ignorance and confidence.",14,True,False,tensor(0.2123),2,0,10,[]
+The best way to predict the future is to create it.,12,True,True,tensor(0.2502),3,3,5,"[[763806631, '  bien creation${Reuters thoughts 2030 predictorBradbig editorial', tensor([  209, 15923,  8869,  8626, 32680,  7906, 42715, 23403, 34972,  2760,
+        21977], device='cuda:0')], [44508455, '  corporationsPublisherclass initiating:# definitions Best Creating predicts.—', tensor([  209, 18674, 33983,  2437, 36300, 18459, 14308,  9567, 42473, 26295,
+        25277], device='cuda:0')], [141892047, '  eastern Alert fabrication ChevroletADVERTISEMENTCBob Seattle FBS Tech', tensor([  209, 14730, 37330, 22911, 49937, 36860,    36, 26845, 16335, 34518,
+        18447], device='cuda:0')]]"
+Life is what happens to us while we are making other plans.,13,True,False,tensor(0.1703),2,0,10,[]
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect.",19,True,False,tensor(0.2011),3,0,10,[]
+"When one door of happiness closes, another opens.",10,True,False,tensor(0.4317),4,0,10,[]
+"Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.",21,True,False,tensor(0.1297),2,0,10,[]
+"Without music, life would be a mistake.",9,True,False,tensor(0.3100),2,1,10,"[[763806631, ' ."""" Without\u2002\x80 \n\n music----------------------------------------------------Life mistake.""""', tensor([  209, 15653, 12414, 35990,  9589, 15267,  3440, 47332, 14660, 10551,
+        15653], device='cuda:0')]]"
+"The truth will set you free, but first it will piss you off.",15,True,False,tensor(0.1251),1,0,10,[]
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.,27,True,False,tensor(0.0854),2,0,10,[]
+"If you want to go fast, go alone. If you want to go far, go together.",20,True,False,tensor(0.1331),2,1,10,"[[546190282, '  Philosoph interventions Illegal tells slopes tan promotes counselor —‘', tensor([  209, 43380, 12214, 39562,  8599, 28677, 23136, 18653, 42687,  1905,
+         8924], device='cuda:0')]]"
+You must be the change you wish to see in the world.,13,True,False,tensor(0.3499),4,3,10,"[[44508455, ' sterdam toast Safe Software physicist Every ChurchillMessage hatred \\""', tensor([  209, 24621, 30631, 28481,  9107, 49360,  6000, 27961,  7474, 24307,
+        12114], device='cuda:0')], [141892047, ' ________________ondaThis microbiotaSubmit meaningful GandhiEverybody Dead quote', tensor([  209,  6659, 18782,  1552, 30158, 38403, 14282, 37539, 35485, 16631,
+        14430], device='cuda:0')], [404750146, ' \n\n\t\t\t\t oft------ evil investing geniusGod marrowYourChange', tensor([  209, 39900, 39670,  4485, 10319, 23415, 21242, 13618, 18440,  7093,
+        13086], device='cuda:0')]]"
+"Don't cry because it's over, smile because it happened.",13,True,False,tensor(0.0460),0,0,10,[]
+"The greatest glory in living lies not in never falling, but in rising every time we fall.",19,True,False,tensor(0.1607),3,0,10,[]
+Life is either a daring adventure or nothing at all.,11,True,False,tensor(0.3393),3,0,10,[]
+In the middle of every difficulty lies opportunity.,9,True,True,tensor(0.1997),1,1,3,"[[44508455, ' middle induced_(Inside Every difficulty lies opportunity."";{""', tensor([  209, 16389,  5802, 18284, 32277,  6000, 10183,  8696,  5107, 45974,
+         9819], device='cuda:0')]]"
+"Success is not final, failure is not fatal: It is the courage to continue that counts.",19,True,False,tensor(0.2937),5,0,10,[]
+"You have within you right now, everything you need to deal with whatever the world can throw at you.",21,True,False,tensor(0.1981),4,0,10,[]
+"If life were predictable it would cease to be life, and be without flavor.",16,True,False,tensor(0.1493),2,0,10,[]
+Life is 10% what happens to us and 90% how we react to it.,17,True,False,tensor(0.2165),3,0,10,[]
+The purpose of our lives is to be happy.,10,True,True,tensor(0.5974),5,5,8,"[[763806631, ""  societies').Under nuest Lives tieneyson happiness Purpose========"", tensor([  209, 21262,  8539, 11752, 28870, 38494, 31918, 28533, 15704, 47908,
+          822], device='cuda:0')], [187748837, '  sou nosrenthood aanimplSTRAJapurpose happiness Objective', tensor([  209, 18155, 13647, 42395, 19935, 15680, 41187, 37135, 27299, 15704,
+        47648], device='cuda:0')], [546190282, ' >). heterosexual Purpose WeYet happiness\x95Based statement\x9a', tensor([  209, 37322, 45692, 47908,   844, 18291, 15704, 17237, 15545,  3908,
+        20054], device='cuda:0')], [331689703, ' ful Definitionendo notreolds purposeSafe happinessTaylor duality', tensor([  209,  1020, 23709, 10081, 37064,  3502,  4096, 35947, 15704, 37979,
+        34962], device='cuda:0')], [404750146, ' About happiness purposeStatementbiamo Canadians2001dmaathaClear', tensor([  209, 10572, 15704,  4096, 25343, 46858, 32846,  8971, 28278, 36319,
+        25376], device='cuda:0')]]"
+The way to get started is to quit talking and begin doing.,13,True,False,tensor(0.1529),1,0,10,[]
+The world is full of magical things patiently waiting for our wits to grow sharper.,18,True,False,tensor(0.1881),3,0,10,[]
+It is better to be hated for what you are than to be loved for what you are not.,20,True,False,tensor(0.1041),2,1,10,"[[44508455, ' category за))** Used insults Our web sickness teaches\x93', tensor([  209, 14267, 19113, 20979, 26713, 44812,  3824,  4384, 31009, 22332,
+        27399], device='cuda:0')]]"
+"In this world nothing can be said to be certain, except death and taxes.",16,True,False,tensor(0.2437),3,0,10,[]
+"The world breaks everyone, and afterward, some are strong at the broken places.",16,True,False,tensor(0.0828),1,0,10,[]
+Happiness is not something ready made. It comes from your own actions.,16,True,False,tensor(0.1749),2,0,10,[]
+There are no shortcuts to any place worth going.,11,True,False,tensor(0.1907),2,0,10,[]
+"The roots of education are bitter, but the fruit is sweet.",13,True,False,tensor(0.2319),3,0,10,[]
+"It's not what happens to you, but how you react to it that matters.",17,True,False,tensor(0.1330),2,1,10,"[[141892047, '  alt football""}\\].Confirm Computing atheist luck saying earlier""""""', tensor([  209,  6945,  5842, 38475, 48529, 37696, 48621,  7516,  3981,  4321,
+        32488], device='cuda:0')]]"
+Life isn't about finding yourself. Life is about creating yourself.,13,True,False,tensor(0.2470),3,0,10,[]
+It is never too late to be what you might have been.,13,True,False,tensor(0.2981),3,0,10,[]
+"It's not the size of the dog in the fight, it's the size of the fight in the dog.",23,True,False,tensor(0.1359),3,0,10,[]
+"Life is like riding a bicycle. To keep your balance, you must keep moving.",17,True,False,tensor(0.2035),3,0,10,[]
+The best way to find yourself is to lose yourself in the service of others.,16,True,False,tensor(0.2535),4,0,10,[]
+You miss 100% of the shots you don't take.,12,True,False,tensor(0.2052),2,1,10,"[[141892047, "" thening shot Media intimid$/ you miss 100DEFAULT '"", tensor([  209, 25230,  5103, 11263, 28427, 32865,   368,  2985,  2233, 25409,
+          686], device='cuda:0')]]"
+The best dreams happen when you're awake.,9,True,True,tensor(0.1176),1,1,3,"[[44508455, ' best dreamsevent BTCProvCYuitivelySleep weary:""', tensor([  209, 14461, 13702,  8045, 47118, 11509, 30697, 41597, 33669, 35725,
+         5136], device='cuda:0')]]"
+"Life is really simple, but we insist on making it complicated.",13,True,False,tensor(0.1939),2,1,10,"[[44508455, ""  life 'reallymissimple we insist使/]( “["", tensor([  209,  1495,   686, 28235, 24418, 19583,   359, 23103, 22160, 46275,
+        16595], device='cuda:0')]]"
+Change your thoughts and you change your world.,9,True,True,tensor(0.2612),2,2,2,"[[763806631, '  change == thoughts retreatJournalstitial Harris pragmatic story(""', tensor([  209,  1818,  2295,  7906, 19015, 24093, 31470, 13680, 41585,  2926,
+         1587], device='cuda:0')], [187748837, '  changing thoughts BUT685cxpublishedgenstein801 heels"":""', tensor([  209,  6890,  7906, 17706, 49722, 33060, 15855, 47583, 38510, 25296,
+         6302], device='cuda:0')]]"
+"Happiness is not something you postpone for the future, it is something you design for the present.",22,True,False,tensor(0.1683),3,0,10,[]
+A journey of a thousand sites begins with a single click.,12,True,False,tensor(0.3349),4,0,10,[]
+The obstacle is the path.,6,True,True,tensor(0.0516),0,1,1,"[[763806631, ' assismmas conditionWhat obstacleそのápricedPath.=', tensor([  209, 34119, 44661,  1617,  1276, 26982, 33124,  1757, 49972,  5455,
+        28520], device='cuda:0')]]"
+"Don’t count the days, make the days count.",12,True,True,tensor(0.2117),2,2,2,"[[763806631, ' делynov countedDay?’MAKE Tyler Don kidney', tensor([  209, 45578,  1362,   729, 16042, 15490, 29200, 29225, 26953,  5037,
+        12333], device='cuda:0')], [187748837, '  countingPathsincreasingDon~\\] Mich?’makedays terrifying', tensor([  209, 15496, 46333, 41193,  5498, 47389,  4378, 29200, 11145, 11015,
+        35247], device='cuda:0')]]"
+"The harder you work for something, the greater you’ll feel when you achieve it.",18,True,False,tensor(0.1465),2,0,10,[]
+Success is not the key to happiness. Happiness is the key to success.,16,True,False,tensor(0.3359),5,0,10,[]
+Love the life you live. Live the life you love.,12,True,False,tensor(0.3642),4,0,10,[]
+The only time to be positive you've got a clear path is when you're on the edge of a cliff.,23,True,False,tensor(0.2199),5,0,10,[]
+Dream big and dare to fail.,8,True,True,tensor(0.2223),1,1,4,"[[884542236, '  sparked][\n\n\n Dakota entre failuresHave imagination know challenges', tensor([  209, 35560,  7082,  2756, 23528, 13326, 20101, 11778, 17368,   871,
+         7881], device='cuda:0')]]"
+Life shrinks or expands in proportion to one's courage.,12,True,False,tensor(0.2141),2,0,10,[]
+You are never too old to set another goal or to dream a new dream.,16,True,False,tensor(0.1572),2,0,10,[]
+What lies behind us and what lies before us are tiny matters compared to what lies within us.,19,True,False,tensor(0.1618),3,0,10,[]
+The only thing standing between you and your goal is the story you keep telling yourself.,17,True,False,tensor(0.2253),3,0,10,[]
+Happiness often sneaks in through a door you didn’t know you left open.,19,True,False,tensor(0.1504),2,0,10,[]
+The only way to achieve the impossible is to believe it is possible.,14,True,True,tensor(0.2929),4,4,4,"[[763806631, ' TheEither求believe.**Story urges achievementEinstein""""""', tensor([  209,   510, 41311, 43741, 42333,  6019, 29569, 35733, 19797, 48987,
+        32488], device='cuda:0')], [187748837, '  economy impossOnlycciónbelie achievableư� describesReuters``', tensor([  209,  6982, 37593, 11564, 29978, 21002, 39941, 30834,  8631, 32680,
+         5190], device='cuda:0')], [44508455, '  According________________________________Strategy believing achieves World impossス 314.""""""', tensor([  209,  4794, 16881, 35548, 22142, 33526,  3645, 37593, 11908, 33198,
+        46289], device='cuda:0')], [884542236, '  FighterCRIPTION]{.Design(() impossible achieveAnd Believe_**', tensor([  209, 45398, 33480, 12004, 23045, 36810,  7479,  5115,  1898, 48678,
+        17906], device='cuda:0')]]"
+It does not do to dwell on dreams and forget to live.,13,True,False,tensor(0.1926),2,0,10,[]
+"Don't watch the clock, do what it does. Keep going.",14,True,False,tensor(0.0449),0,0,10,[]
+"You cannot change what you are, only what you do.",12,True,True,tensor(0.1141),1,1,2,"[[187748837, '  stuckTennfemale herselfíanaughlin40 1941 Passgender', tensor([  209, 10960, 30461, 35686,  5972, 24501, 44750,  1449, 22715, 11271,
+        21069], device='cuda:0')]]"
+"Life is ours to be spent, not to be saved.",12,True,False,tensor(0.2066),2,0,10,[]
+"You can't use up creativity. The more you use, the more you have.",17,True,False,tensor(0.2063),3,0,10,[]
+The best revenge is massive success.,7,True,True,tensor(0.2138),1,1,1,"[[763806631, ' PortugueseLouis managers\\]\\[best revenge massive success article“', tensor([  209, 48236, 34830, 15071, 41018, 14461, 25442,  7863,  2323,  3929,
+         1628], device='cuda:0')]]"
+"It's not what you look at that matters, it's what you see.",16,True,False,tensor(0.1200),1,0,10,[]
+The road to success and the road to failure are almost exactly the same.,15,True,False,tensor(0.2591),3,0,10,[]
+Life is 10% what happens to me and 90% of how I react to it.,18,True,False,tensor(0.2337),4,0,10,[]
+The two most important days in your life are the day you are born and the day you find out why.,22,True,False,tensor(0.1476),3,0,10,[]
+"The most difficult thing is the decision to act, the rest is merely tenacity.",17,True,False,tensor(0.1601),2,0,10,[]
+The best time to plant a tree was 20 years ago. The second best time is now.,19,True,False,tensor(0.1332),2,0,10,[]
+The only way to do great work is to love what you do.,14,True,False,tensor(0.2917),4,1,10,"[[44508455, '  spots cuesclassicalenron earnENER Bryan Times inspiring--""', tensor([  209, 13977, 26638, 37347, 36898,  6233, 14225, 30397,  7717, 29853,
+        26836], device='cuda:0')]]"
+"Your time is limited, don't waste it living someone else's life.",15,True,True,tensor(0.1668),2,2,7,"[[546190282, '  reject� whispersconsiderAs altermedscimonit Jesus DUexercise', tensor([  209, 12009, 27582, 47819, 15603,  1909,  6990, 37406,  7670, 35049,
+        48355], device='cuda:0')], [331689703, ' [ The mentality pledgedXM Timothy brig Sher author...""', tensor([  209,    60,   380, 38656, 35696, 45057, 32905, 28097, 10648,  2488,
+         3255], device='cuda:0')]]"
+The only limit to our realization of tomorrow is our doubts of today.,14,True,False,tensor(0.1489),2,0,10,[]
+In order to be irreplaceable one must always be different.,13,True,False,tensor(0.0822),1,0,10,[]
+The future belongs to those who believe in the beauty of their dreams.,14,True,True,tensor(0.1824),2,2,6,"[[763806631, '  Republicans adoptingBernfruit beautiful dreams Promise Masters parl\x91', tensor([  209, 11885, 25987, 31080, 37609,  5389, 13702, 32949, 29351, 34680,
+        19819], device='cuda:0')], [546190282, ' umabGenderbelieve Font bedroom providesBrown proposition847 """"""', tensor([  209, 20677, 40945, 42333, 24216, 14098,  3400, 27543, 13989, 49830,
+        12251], device='cuda:0')]]"
+"If you look at what you have in life, you'll always have more.",16,True,False,tensor(0.0475),0,0,10,[]
+A person who never made a mistake never tried anything new.,12,True,False,tensor(0.1695),2,0,10,[]
+Remember no one can make you feel inferior without your consent.,12,True,False,tensor(0.3395),4,0,10,[]
+The only true wisdom is in knowing you know nothing.,11,True,False,tensor(0.1111),1,0,10,[]
+The only journey is the one within.,8,True,True,tensor(0.1192),0,1,4,"[[884542236, ' ONLY journey is το within""}.updatefunc recreate.—', tensor([  209, 41889,  9455,   310, 17686,  1561,  7129, 11183,  4997, 48516,
+        25277], device='cuda:0')]]"
+"Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",26,True,False,tensor(0.2591),6,0,10,[]
+"Do not go where the path may lead, go instead where there is no path and leave a trail.",21,True,False,tensor(0.0739),1,0,10,[]
+Do not let making a living prevent you from making a life.,13,True,False,tensor(0.3190),4,0,10,[]
+The biggest risk is not taking any risk.,9,True,True,tensor(0.3012),2,2,6,"[[884542236, '  Considerlargest Risk tells hardestNot TakeAnyRisk.—', tensor([  209, 11680, 45242, 22887,  8599, 31056,  3650, 11668,  6693, 44751,
+        25277], device='cuda:0')], [546190282, '  menstru,**TakingRiskNoneRA het bigliest-----------------------------', tensor([  209, 36513, 26359, 33748, 44751, 11336,  5214,  8649,  1943, 15717,
+        29648], device='cuda:0')]]"
+Knowledge is power.,5,True,True,tensor(0.2364),1,1,1,"[[763806631, ' \x92KnowcelInvest power mindset Knowledgeledge--------------------------------------------------------------------------------------------------------------------------------:""', tensor([  209, 17719, 27958,  6226, 30381,  1612, 36231, 28003,  3009,  7078,
+         5136], device='cuda:0')]]"
+Be the change that you wish to see in the world.,12,True,True,tensor(0.5520),6,6,9,"[[763806631, '  Divine caveomination""_ Romney conductivealpha Be Button()"">', tensor([  209, 35502, 15985, 45455, 47439, 24460, 19604,  1637,  2325, 26645,
+        49384], device='cuda:0')], [44508455, ' rating twelveAsk LORDον subscribeHaveBiography 0!', tensor([  209, 38203, 13265, 30326, 22479, 28649, 26302, 11778, 39357,   470,
+            2], device='cuda:0')], [141892047, '  Bailey recommended miRNAsCorrectuating310 tyrannyEndeduc kindness', tensor([  209, 27738,  8521, 20830, 47390, 18186, 19569, 48320,  7689, 23081,
+        28426], device='cuda:0')], [331689703, ' em ubentionDone1945 faithBelow trailersZe manifestations', tensor([  209,   358, 12980,  1075, 34739, 36354,  6009, 30003, 47958, 32462,
+        26683], device='cuda:0')], [404750146, '  accordinglyENSE OzėJoin channel Grand quoteTal—""', tensor([  209, 15672, 11535, 31683, 23814, 22196,  5048,  8481, 14430, 41520,
+        12012], device='cuda:0')], [476340211, ' may Bee�ubotu�29Sunday disruptWith kindness', tensor([  209, 11159, 31069,   228, 40743,  8082,  1717, 27180, 13201,  3378,
+        28426], device='cuda:0')]]"
