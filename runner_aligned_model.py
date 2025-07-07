@@ -1,15 +1,15 @@
 import subprocess
 import pandas as pd
 
-model = "meta-llama/llama-2-7b-chat-hf"
-data_type = "float16"
+model = "Qwen/Qwen3-14B"
+data_type = "bfloat16"
 
 df = pd.read_csv("./datasets/famous_quotes.csv")
 quotes = df['text']
 
 # Process individual sentences
 for idx, quote in enumerate(quotes, 1):
-    out_file = "/home/seal12/PycharmProjects/memories/outputs/famous_quotes_llama_2_7b_chat.csv"
+    out_file = "/home/seal12/PycharmProjects/memories/outputs/new_aligned/qwen-3-14b.csv"
     df_res = pd.read_csv(out_file)
     print(f"Quote {idx}: {quote}")
     target = quote
