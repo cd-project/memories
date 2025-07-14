@@ -284,6 +284,7 @@ def main():
         elif args.model == 'Qwen/Qwen3-14B':
             chat_template = ("<|im_start|>user\n", "<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n")
 
+
         logging.info(f'chat_template: {chat_template}')
         input_ids, free_token_slice, input_slice, target_slice, loss_slice = prep_text(input_str,
                                                                                        target_str,

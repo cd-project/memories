@@ -38,7 +38,6 @@ def contains_sublist(main_list, sublist) -> bool:
 
     return False
 
-seeds = [763806631,187748837,44508455,884542236,141892047,546190282,331689703,404750146,476340211,133739642]
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--model', type=str, required=True, default="EleutherAI/pythia-1.4b")
@@ -50,6 +49,8 @@ def parse_args():
     parser.add_argument('--probe_sampling_model', type=str, default=None)
     args = parser.parse_args()
     return args
+
+seeds = [763806631,187748837,44508455,884542236,141892047,546190282,331689703,404750146,476340211,133739642]
 
 def main():
     args = parse_args()
@@ -64,7 +65,7 @@ def main():
     print(args)
 
     if args.probe_sampling_model is not None:
-        print('using probe sampling config: pythia-410m')
+        print(f'using probe sampling model: {args.probe_sampling_model}')
         draft_model = AutoModelForCausalLM.from_pretrained(args.probe_sampling_model,
                                                            torch_dtype=getattr(torch, args.dtype)).to(args.device)
         draft_tokenizer = AutoTokenizer.from_pretrained(args.probe_sampling_model)
@@ -105,7 +106,7 @@ def main():
             return
         cnt+=1
         config = GCGConfig(
-            num_steps=500,
+            num_steps=1000,
             search_width=256,
             topk=256,
             seed=seed,
@@ -124,10 +125,10 @@ def main():
         input_str = tokenizer(result.best_string, add_special_tokens=False, return_tensors='pt').to(args.device)
         output_tokens = model.generate(**input_str,
                                        max_new_tokens=n_token)
-        generated = tokenizer.decode(output_tokens[0])
+        generate_output = tokenizer.decode(output_tokens[0])
         generated_tokens = output_tokens[:, len(output_tokens)-n_token-1:].tolist()[0]
         generated_text = tokenizer.decode(generated_tokens, skip_special_tokens=True)
-        print(f'generated_text: {generated_text}')
+        print(f'generate_output: {generate_output}')
         t = tokenized['input_ids'][0].tolist()
         print(f'expected, original tokens: {t}')
         print(f'generated tokens: {generated_tokens}')
@@ -137,14 +138,14 @@ def main():
         if contains_sublist(generated_tokens, t):
             print(f'token match')
             token_match = True
-        if target in generated:
+        if target in generated_text:
             print(f'string match')
             string_match = True
         if token_match or string_match:
             match += 1
             match_list.append([seed, result.best_string])
         else:
-            print(f'no match, generated string: {generated_string}')
+            print(f'no match; generated string: {generated_text}\nexpected string: {target}')
         if n_prefixes_required == 0:
             if match > n_prefixes_required:
                 data = [[target, n_token, args.acr_result, True, e, n_prefixes_required, match, cnt, match_list]]
